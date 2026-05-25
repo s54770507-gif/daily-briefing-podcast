@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每週學習簡報</title>
+    <link>https://s54770507-gif.github.io/daily-briefing-podcast/</link>
+    <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-TW</language>
+    <copyright>© 2026 每週學習簡報 Agent</copyright>
+    <lastBuildDate>Tue, 26 May 2026 07:00:00 +0800</lastBuildDate>
+    <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
+    <itunes:author>每週學習簡報 Agent</itunes:author>
+    <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
+    <itunes:subtitle>六大領域跨界洞察：醫學、藥廠、AI、Vibe Coding、總經、新創</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>每週學習簡報 Agent</itunes:name>
+      <itunes:email>s54770507@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
+
+    <item>
+      <title>2026 第 22 週簡報（2026-05-26）</title>
+      <description><![CDATA[歡迎收聽每週學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們聚焦在兩項具備臨床改變潛力的研究。首先是關於中風治療的重大進展。根據新英格蘭醫學雜誌的最新研究，針對中型血管阻塞導致的中風患者，採用血管內治療對比單純的最佳藥物治療，展現了顯著的臨床成效。這代表中風治療已經進入血管內治療細緻化的階段，過去臨床指引多半集中在大型血管阻塞，但現在我們有高質量的證據支持將介入治療範圍延伸至中型血管。這對神經內外科醫師的決策有重大轉折意義，未來的重點將在於定義不同血管管徑下的黃金治療窗。對實務工作來說，醫師在面對非大血管的中風個案時，應該要更積極評估介入治療的可行性。  接著是關於腎臟病的標靶療法。同樣來自新英格蘭醫學雜...]]></description>
+      <itunes:summary>歡迎收聽每週學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們聚焦在兩項具備臨床改變潛力的研究。首先是關於中風治療的重大進展。根據新英格蘭醫學雜誌的最新研究，針對中型血管阻塞導致的中風患者，採用血管內治療對比單純的最佳藥物治療，展現了顯著的臨床成效。這代表中風治療已經進入血管內治療細緻化的階段，過去臨床指引多半集中在大型血管阻塞，但現在我們有高質量的證據支持將介入治療範圍延伸至中型血管。這對神經內外科醫師的決策有重大轉折意義，未來的重點將在於定義不同血管管徑下的黃金治療窗。對實務工作來說，醫師在面對非大血管的中風個案時，應該要更積極評估介入治療的可行性。  接著是關於腎臟病的標靶療法。同樣來自新英格蘭醫學雜...</itunes:summary>
+      <pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-05-26.mp3" length="2551248" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-26</guid>
+      <itunes:duration>14:10</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
