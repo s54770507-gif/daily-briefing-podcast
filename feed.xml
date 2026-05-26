@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Tue, 26 May 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
-      <title>2026 第 22 週簡報（2026-05-26）</title>
-      <description><![CDATA[歡迎收聽每週學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週在新英格蘭醫學雜誌發表的臨床實證顯示，現代醫學正透過微創技術升級與精準生物製劑兩大主軸，極大地改寫了心腦血管與免疫代謝疾病的治療邊界。  針對中型血管阻塞導致的中風患者，最新的血管內治療研究填補了缺血性中風治療領域的重大拼圖，顯示介入放射治療的技術演進，已經能處理更細緻的血管解剖構造。這不僅改變了神經介入醫師的適應症評估，後續的臨床指引也勢必會更新，建議將取栓考慮範圍擴展至適合的中型血管病患，以降低殘疾風險。  此外，針對 IgA 腎病變，一項第三期臨床試驗的中期分析顯示，一種雙重靶向的生物製劑對於蛋白尿緩解有顯著效果。該藥物透過同時抑制 B 淋巴細...]]></description>
-      <itunes:summary>歡迎收聽每週學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週在新英格蘭醫學雜誌發表的臨床實證顯示，現代醫學正透過微創技術升級與精準生物製劑兩大主軸，極大地改寫了心腦血管與免疫代謝疾病的治療邊界。  針對中型血管阻塞導致的中風患者，最新的血管內治療研究填補了缺血性中風治療領域的重大拼圖，顯示介入放射治療的技術演進，已經能處理更細緻的血管解剖構造。這不僅改變了神經介入醫師的適應症評估，後續的臨床指引也勢必會更新，建議將取栓考慮範圍擴展至適合的中型血管病患，以降低殘疾風險。  此外，針對 IgA 腎病變，一項第三期臨床試驗的中期分析顯示，一種雙重靶向的生物製劑對於蛋白尿緩解有顯著效果。該藥物透過同時抑制 B 淋巴細...</itunes:summary>
+      <title>2026 第 22 週・週三（2026-05-27）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 二十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為您分析二零二六年的最新臨床進展。第一則新聞來自 新英格蘭醫學雜誌，研究探討了中型血管阻塞導致的中風患者，採用血管內治療相較於單純藥物治療的臨床效益。長期以來，針對大血管阻塞的取栓治療已是標準，但針對中型血管病灶的介入決策卻較為保守。這項研究結果可能挑戰現行治療路徑，特別是對於中型血管病灶是否應更積極採取介入措施，提供了關鍵數據。未來，中風小組將需要重新檢視這類患者的收案標準與介入時機，並推動指引更新。  進入下一則醫學領域重點，同樣來自 新英格蘭醫學雜誌，內容是關於治療 Ｉ ｇ Ａ 腎病變的新藥 第三期臨床試驗期中分析。這項研究評估了這款雙重...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 二十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為您分析二零二六年的最新臨床進展。第一則新聞來自 新英格蘭醫學雜誌，研究探討了中型血管阻塞導致的中風患者，採用血管內治療相較於單純藥物治療的臨床效益。長期以來，針對大血管阻塞的取栓治療已是標準，但針對中型血管病灶的介入決策卻較為保守。這項研究結果可能挑戰現行治療路徑，特別是對於中型血管病灶是否應更積極採取介入措施，提供了關鍵數據。未來，中風小組將需要重新檢視這類患者的收案標準與介入時機，並推動指引更新。  進入下一則醫學領域重點，同樣來自 新英格蘭醫學雜誌，內容是關於治療 Ｉ ｇ Ａ 腎病變的新藥 第三期臨床試驗期中分析。這項研究評估了這款雙重...</itunes:summary>
+      <pubDate>Wed, 27 May 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-05-27.mp3" length="2564784" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-27</guid>
+      <itunes:duration>14:14</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>2026 第 22 週・週二（2026-05-26）</title>
+      <description><![CDATA[每週學習簡報 2026-05-26 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-05-26 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Tue, 26 May 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-05-26.mp3" length="2551248" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-05-26</guid>
