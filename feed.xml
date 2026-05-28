@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 27 May 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 22 週・週五（2026-05-29）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域，我們來看看兩則具備高度策略意涵的動態。第一則消息來自 科技酷玩，美國的藥品福利管理公司 C V S Caremark 宣布，恢復對禮來減重藥物 Z e p b o u n d 的保險給付，同時也將禮來新推出的口服減重藥 F o u n d a y o 納入清單。這對減重藥市場來說是一個重大轉折，大幅提升了患者用藥的方便性。  生技產業分析師認為，在美國，藥品福利管理公司在藥價談判上有絕對的話語權，這次 C V S 的回歸，象徵著藥價談判與市佔率的角力達成了平衡。禮來透過針劑與口服藥的組合拳，成功築起了護城河。這顯示減重藥市場已經從單純的供應，轉...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域，我們來看看兩則具備高度策略意涵的動態。第一則消息來自 科技酷玩，美國的藥品福利管理公司 C V S Caremark 宣布，恢復對禮來減重藥物 Z e p b o u n d 的保險給付，同時也將禮來新推出的口服減重藥 F o u n d a y o 納入清單。這對減重藥市場來說是一個重大轉折，大幅提升了患者用藥的方便性。  生技產業分析師認為，在美國，藥品福利管理公司在藥價談判上有絕對的話語權，這次 C V S 的回歸，象徵著藥價談判與市佔率的角力達成了平衡。禮來透過針劑與口服藥的組合拳，成功築起了護城河。這顯示減重藥市場已經從單純的供應，轉...</itunes:summary>
+      <pubDate>Fri, 29 May 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-05-29.mp3" length="2542608" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-05-29</guid>
+      <itunes:duration>14:07</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 22 週・週三（2026-05-27）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 二十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為您分析二零二六年的最新臨床進展。第一則新聞來自 新英格蘭醫學雜誌，研究探討了中型血管阻塞導致的中風患者，採用血管內治療相較於單純藥物治療的臨床效益。長期以來，針對大血管阻塞的取栓治療已是標準，但針對中型血管病灶的介入決策卻較為保守。這項研究結果可能挑戰現行治療路徑，特別是對於中型血管病灶是否應更積極採取介入措施，提供了關鍵數據。未來，中風小組將需要重新檢視這類患者的收案標準與介入時機，並推動指引更新。  進入下一則醫學領域重點，同樣來自 新英格蘭醫學雜誌，內容是關於治療 Ｉ ｇ Ａ 腎病變的新藥 第三期臨床試驗期中分析。這項研究評估了這款雙重...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 二十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為您分析二零二六年的最新臨床進展。第一則新聞來自 新英格蘭醫學雜誌，研究探討了中型血管阻塞導致的中風患者，採用血管內治療相較於單純藥物治療的臨床效益。長期以來，針對大血管阻塞的取栓治療已是標準，但針對中型血管病灶的介入決策卻較為保守。這項研究結果可能挑戰現行治療路徑，特別是對於中型血管病灶是否應更積極採取介入措施，提供了關鍵數據。未來，中風小組將需要重新檢視這類患者的收案標準與介入時機，並推動指引更新。  進入下一則醫學領域重點，同樣來自 新英格蘭醫學雜誌，內容是關於治療 Ｉ ｇ Ａ 腎病變的新藥 第三期臨床試驗期中分析。這項研究評估了這款雙重...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-05-27 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-05-27 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 27 May 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-05-27.mp3" length="2564784" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-05-27</guid>
