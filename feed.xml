@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 29 May 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 23 週・週一（2026-06-01）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態。首先是來自 FiercePharma 與 Endpoints News 的消息。康方生物開發的全球首款 P D-1 與 V E G F 雙特異性抗體 Ivonescimab，在針對一線肺癌的臨床研究中，對比傳統 P D-1 抑制劑合併化療，顯著降低了百分之三十四的死亡風險。這項數據在美國臨床腫瘤學會 A S C O 年會中引發高度關注，驗證了雙靶點抗體在免疫治療領域的競爭潛力。專家分析指出，這項研究標誌著雙特異性抗體正式挑戰 P D-1 單抗的標準治療地位。其核心邏輯在於，透過同時封鎖 V E G F 路徑來增強免疫細胞浸潤，解決部分患者對 P D-...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態。首先是來自 FiercePharma 與 Endpoints News 的消息。康方生物開發的全球首款 P D-1 與 V E G F 雙特異性抗體 Ivonescimab，在針對一線肺癌的臨床研究中，對比傳統 P D-1 抑制劑合併化療，顯著降低了百分之三十四的死亡風險。這項數據在美國臨床腫瘤學會 A S C O 年會中引發高度關注，驗證了雙靶點抗體在免疫治療領域的競爭潛力。專家分析指出，這項研究標誌著雙特異性抗體正式挑戰 P D-1 單抗的標準治療地位。其核心邏輯在於，透過同時封鎖 V E G F 路徑來增強免疫細胞浸潤，解決部分患者對 P D-...</itunes:summary>
+      <pubDate>Mon, 01 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-01.mp3" length="3084912" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-01</guid>
+      <itunes:duration>17:08</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 22 週・週五（2026-05-29）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域，我們來看看兩則具備高度策略意涵的動態。第一則消息來自 科技酷玩，美國的藥品福利管理公司 C V S Caremark 宣布，恢復對禮來減重藥物 Z e p b o u n d 的保險給付，同時也將禮來新推出的口服減重藥 F o u n d a y o 納入清單。這對減重藥市場來說是一個重大轉折，大幅提升了患者用藥的方便性。  生技產業分析師認為，在美國，藥品福利管理公司在藥價談判上有絕對的話語權，這次 C V S 的回歸，象徵著藥價談判與市佔率的角力達成了平衡。禮來透過針劑與口服藥的組合拳，成功築起了護城河。這顯示減重藥市場已經從單純的供應，轉...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十二週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域，我們來看看兩則具備高度策略意涵的動態。第一則消息來自 科技酷玩，美國的藥品福利管理公司 C V S Caremark 宣布，恢復對禮來減重藥物 Z e p b o u n d 的保險給付，同時也將禮來新推出的口服減重藥 F o u n d a y o 納入清單。這對減重藥市場來說是一個重大轉折，大幅提升了患者用藥的方便性。  生技產業分析師認為，在美國，藥品福利管理公司在藥價談判上有絕對的話語權，這次 C V S 的回歸，象徵著藥價談判與市佔率的角力達成了平衡。禮來透過針劑與口服藥的組合拳，成功築起了護城河。這顯示減重藥市場已經從單純的供應，轉...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-05-29 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-05-29 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 29 May 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-05-29.mp3" length="2542608" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-05-29</guid>
