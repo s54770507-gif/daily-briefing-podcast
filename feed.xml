@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 23 週・週三（2026-06-03）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年的第 二 十 三 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。作為生技產業分析師，針對近期國際藥廠動態，我挑選了兩則對臨床研發策略與藥廠商業模式具備指標意義的消息進行深度分析。  首先是關於 輝瑞 旗下的 羅氏。在美國臨床腫瘤學會會議上，羅氏詳細說明了其口服選擇性雌激素受體降解劑藥物，也就是我們俗稱的口服 S E R D 藥物，在乳癌一線治療的臨床三期試驗中失敗的結果。儘管如此，羅氏並沒有放棄這款藥物，反而決定開展另一項針對輔助治療的三期臨床研究，試圖挽救它的市場價值。  專家分析，口服 S E R D 類藥物長期以來都被視為取代氟維司群的潛力接班者，但在面對細胞週期蛋白激酶 4 點 6 抑制劑...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年的第 二 十 三 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。作為生技產業分析師，針對近期國際藥廠動態，我挑選了兩則對臨床研發策略與藥廠商業模式具備指標意義的消息進行深度分析。  首先是關於 輝瑞 旗下的 羅氏。在美國臨床腫瘤學會會議上，羅氏詳細說明了其口服選擇性雌激素受體降解劑藥物，也就是我們俗稱的口服 S E R D 藥物，在乳癌一線治療的臨床三期試驗中失敗的結果。儘管如此，羅氏並沒有放棄這款藥物，反而決定開展另一項針對輔助治療的三期臨床研究，試圖挽救它的市場價值。  專家分析，口服 S E R D 類藥物長期以來都被視為取代氟維司群的潛力接班者，但在面對細胞週期蛋白激酶 4 點 6 抑制劑...</itunes:summary>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-03.mp3" length="6265584" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-03</guid>
+      <itunes:duration>34:48</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 23 週・週一（2026-06-01）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態。首先是來自 FiercePharma 與 Endpoints News 的消息。康方生物開發的全球首款 P D-1 與 V E G F 雙特異性抗體 Ivonescimab，在針對一線肺癌的臨床研究中，對比傳統 P D-1 抑制劑合併化療，顯著降低了百分之三十四的死亡風險。這項數據在美國臨床腫瘤學會 A S C O 年會中引發高度關注，驗證了雙靶點抗體在免疫治療領域的競爭潛力。專家分析指出，這項研究標誌著雙特異性抗體正式挑戰 P D-1 單抗的標準治療地位。其核心邏輯在於，透過同時封鎖 V E G F 路徑來增強免疫細胞浸潤，解決部分患者對 P D-...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態。首先是來自 FiercePharma 與 Endpoints News 的消息。康方生物開發的全球首款 P D-1 與 V E G F 雙特異性抗體 Ivonescimab，在針對一線肺癌的臨床研究中，對比傳統 P D-1 抑制劑合併化療，顯著降低了百分之三十四的死亡風險。這項數據在美國臨床腫瘤學會 A S C O 年會中引發高度關注，驗證了雙靶點抗體在免疫治療領域的競爭潛力。專家分析指出，這項研究標誌著雙特異性抗體正式挑戰 P D-1 單抗的標準治療地位。其核心邏輯在於，透過同時封鎖 V E G F 路徑來增強免疫細胞浸潤，解決部分患者對 P D-...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-01 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-01 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 01 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-01.mp3" length="3084912" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-01</guid>
