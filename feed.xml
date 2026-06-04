@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 23 週・週五（2026-06-05）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。首先是關於學名藥廠與原廠藥企之間的訴訟結果。美國最高法院全票通過，裁定希克瑪製藥在瘦身標籤的訴訟中勝訴，判定該公司的學名藥並沒有侵犯阿瑪林旗下的專利。這項判決確立了學名藥廠只要在產品上標示部分適應症，就能合法上市，不需要擔心專利涵蓋的所有適應症都必須經過授權。專家分析，這對學名藥產業是一場關鍵勝利，也代表未來藥廠想靠單一藥物的廣泛專利來阻擋競爭，將變得更加困難。藥廠必須投入更多研發，而不是依賴舊藥續命，長期來看，這會促使市場競爭更有效率。  以上是本週藥廠市場的動態之一。接下來繼續關注 ADC 抗體偶聯藥物的安全性議題。ADC 藥物開發商 ADC...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。首先是關於學名藥廠與原廠藥企之間的訴訟結果。美國最高法院全票通過，裁定希克瑪製藥在瘦身標籤的訴訟中勝訴，判定該公司的學名藥並沒有侵犯阿瑪林旗下的專利。這項判決確立了學名藥廠只要在產品上標示部分適應症，就能合法上市，不需要擔心專利涵蓋的所有適應症都必須經過授權。專家分析，這對學名藥產業是一場關鍵勝利，也代表未來藥廠想靠單一藥物的廣泛專利來阻擋競爭，將變得更加困難。藥廠必須投入更多研發，而不是依賴舊藥續命，長期來看，這會促使市場競爭更有效率。  以上是本週藥廠市場的動態之一。接下來繼續關注 ADC 抗體偶聯藥物的安全性議題。ADC 藥物開發商 ADC...</itunes:summary>
+      <pubDate>Fri, 05 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-05.mp3" length="2492928" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-05</guid>
+      <itunes:duration>13:50</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 23 週・週三（2026-06-03）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年的第 二 十 三 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。作為生技產業分析師，針對近期國際藥廠動態，我挑選了兩則對臨床研發策略與藥廠商業模式具備指標意義的消息進行深度分析。  首先是關於 輝瑞 旗下的 羅氏。在美國臨床腫瘤學會會議上，羅氏詳細說明了其口服選擇性雌激素受體降解劑藥物，也就是我們俗稱的口服 S E R D 藥物，在乳癌一線治療的臨床三期試驗中失敗的結果。儘管如此，羅氏並沒有放棄這款藥物，反而決定開展另一項針對輔助治療的三期臨床研究，試圖挽救它的市場價值。  專家分析，口服 S E R D 類藥物長期以來都被視為取代氟維司群的潛力接班者，但在面對細胞週期蛋白激酶 4 點 6 抑制劑...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年的第 二 十 三 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。作為生技產業分析師，針對近期國際藥廠動態，我挑選了兩則對臨床研發策略與藥廠商業模式具備指標意義的消息進行深度分析。  首先是關於 輝瑞 旗下的 羅氏。在美國臨床腫瘤學會會議上，羅氏詳細說明了其口服選擇性雌激素受體降解劑藥物，也就是我們俗稱的口服 S E R D 藥物，在乳癌一線治療的臨床三期試驗中失敗的結果。儘管如此，羅氏並沒有放棄這款藥物，反而決定開展另一項針對輔助治療的三期臨床研究，試圖挽救它的市場價值。  專家分析，口服 S E R D 類藥物長期以來都被視為取代氟維司群的潛力接班者，但在面對細胞週期蛋白激酶 4 點 6 抑制劑...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-03 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-03 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 03 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-03.mp3" length="6265584" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-03</guid>
