@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 24 週・週一（2026-06-08）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十四 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重要的醫學進展，第一項是 輝瑞 旗下的藥物，這款研發中的新藥已經獲得了 F D A 的突破性療法資格，專門用來治療脊髓性肌肉萎縮症。這類藥物的主要目標，是希望能解決現有療法在長期治療上的不足，提升患者的運動功能，並改善生活品質。第二項則是 禮來 公司在 肥胖症治療上的重大突破，他們的三重激動劑在 第三期臨床試驗中，展現了極為驚人的減重效果，不僅能幫助減重，還能改善相關的共病問題，像是糖尿病指標、關節疼痛或是睡眠呼吸中止症。這些數據都顯示出，現代醫學正在從單純緩解症狀，轉向最大化生理效益的治療目標。以上是本週醫學領域的重點。  進入今天的...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十四 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重要的醫學進展，第一項是 輝瑞 旗下的藥物，這款研發中的新藥已經獲得了 F D A 的突破性療法資格，專門用來治療脊髓性肌肉萎縮症。這類藥物的主要目標，是希望能解決現有療法在長期治療上的不足，提升患者的運動功能，並改善生活品質。第二項則是 禮來 公司在 肥胖症治療上的重大突破，他們的三重激動劑在 第三期臨床試驗中，展現了極為驚人的減重效果，不僅能幫助減重，還能改善相關的共病問題，像是糖尿病指標、關節疼痛或是睡眠呼吸中止症。這些數據都顯示出，現代醫學正在從單純緩解症狀，轉向最大化生理效益的治療目標。以上是本週醫學領域的重點。  進入今天的...</itunes:summary>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-08.mp3" length="1894608" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-08</guid>
+      <itunes:duration>10:31</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 23 週・週五（2026-06-05）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。首先是關於學名藥廠與原廠藥企之間的訴訟結果。美國最高法院全票通過，裁定希克瑪製藥在瘦身標籤的訴訟中勝訴，判定該公司的學名藥並沒有侵犯阿瑪林旗下的專利。這項判決確立了學名藥廠只要在產品上標示部分適應症，就能合法上市，不需要擔心專利涵蓋的所有適應症都必須經過授權。專家分析，這對學名藥產業是一場關鍵勝利，也代表未來藥廠想靠單一藥物的廣泛專利來阻擋競爭，將變得更加困難。藥廠必須投入更多研發，而不是依賴舊藥續命，長期來看，這會促使市場競爭更有效率。  以上是本週藥廠市場的動態之一。接下來繼續關注 ADC 抗體偶聯藥物的安全性議題。ADC 藥物開發商 ADC...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十三週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。首先是關於學名藥廠與原廠藥企之間的訴訟結果。美國最高法院全票通過，裁定希克瑪製藥在瘦身標籤的訴訟中勝訴，判定該公司的學名藥並沒有侵犯阿瑪林旗下的專利。這項判決確立了學名藥廠只要在產品上標示部分適應症，就能合法上市，不需要擔心專利涵蓋的所有適應症都必須經過授權。專家分析，這對學名藥產業是一場關鍵勝利，也代表未來藥廠想靠單一藥物的廣泛專利來阻擋競爭，將變得更加困難。藥廠必須投入更多研發，而不是依賴舊藥續命，長期來看，這會促使市場競爭更有效率。  以上是本週藥廠市場的動態之一。接下來繼續關注 ADC 抗體偶聯藥物的安全性議題。ADC 藥物開發商 ADC...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-05 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-05 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 05 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-05.mp3" length="2492928" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-05</guid>
