@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 08 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 24 週・週三（2026-06-10）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 二十四 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項關鍵進展。首先，輝瑞旗下的候選藥物 Salanersen 獲得了 F D A 的突破性療法認定，這是為了治療脊髓性肌肉萎縮症。專家分析指出，這暗示該藥物在療效或給藥機制上具備顯著優勢，若臨床試驗順利，將可能改變現有的治療布局。另外，默克與吉利德針對肺癌與 H I V 的研究，近期報告了混合的試驗結果。這提醒我們，即便是在成熟的領域，個體反應差異依然是臨床決策最大的考驗。建議臨床醫師在面對新藥時，應更加重視試驗設計中的族群精準度，不要輕易調整指引。以上是本週醫學領域的重點。  進入今天的第二個主題，國際藥廠市場動態。產業分析師觀察到，藥...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 二十四 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項關鍵進展。首先，輝瑞旗下的候選藥物 Salanersen 獲得了 F D A 的突破性療法認定，這是為了治療脊髓性肌肉萎縮症。專家分析指出，這暗示該藥物在療效或給藥機制上具備顯著優勢，若臨床試驗順利，將可能改變現有的治療布局。另外，默克與吉利德針對肺癌與 H I V 的研究，近期報告了混合的試驗結果。這提醒我們，即便是在成熟的領域，個體反應差異依然是臨床決策最大的考驗。建議臨床醫師在面對新藥時，應更加重視試驗設計中的族群精準度，不要輕易調整指引。以上是本週醫學領域的重點。  進入今天的第二個主題，國際藥廠市場動態。產業分析師觀察到，藥...</itunes:summary>
+      <pubDate>Wed, 10 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-10.mp3" length="1847808" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-10</guid>
+      <itunes:duration>10:15</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 24 週・週一（2026-06-08）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十四 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重要的醫學進展，第一項是 輝瑞 旗下的藥物，這款研發中的新藥已經獲得了 F D A 的突破性療法資格，專門用來治療脊髓性肌肉萎縮症。這類藥物的主要目標，是希望能解決現有療法在長期治療上的不足，提升患者的運動功能，並改善生活品質。第二項則是 禮來 公司在 肥胖症治療上的重大突破，他們的三重激動劑在 第三期臨床試驗中，展現了極為驚人的減重效果，不僅能幫助減重，還能改善相關的共病問題，像是糖尿病指標、關節疼痛或是睡眠呼吸中止症。這些數據都顯示出，現代醫學正在從單純緩解症狀，轉向最大化生理效益的治療目標。以上是本週醫學領域的重點。  進入今天的...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十四 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重要的醫學進展，第一項是 輝瑞 旗下的藥物，這款研發中的新藥已經獲得了 F D A 的突破性療法資格，專門用來治療脊髓性肌肉萎縮症。這類藥物的主要目標，是希望能解決現有療法在長期治療上的不足，提升患者的運動功能，並改善生活品質。第二項則是 禮來 公司在 肥胖症治療上的重大突破，他們的三重激動劑在 第三期臨床試驗中，展現了極為驚人的減重效果，不僅能幫助減重，還能改善相關的共病問題，像是糖尿病指標、關節疼痛或是睡眠呼吸中止症。這些數據都顯示出，現代醫學正在從單純緩解症狀，轉向最大化生理效益的治療目標。以上是本週醫學領域的重點。  進入今天的...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-08 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-08 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 08 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-08.mp3" length="1894608" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-08</guid>
