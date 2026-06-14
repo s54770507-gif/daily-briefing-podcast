@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 12 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 25 週・週一（2026-06-15）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理本週的重點。臨床醫師與藥物治療專家特別關注美國食品藥物管理局，也就是 F D A，近期正式授予輝瑞旗下的藥廠開發的一款藥物，針對脊髓性肌肉萎縮症的突破性療法認定。這項認定能加速審查流程，顯示該藥物在臨床試驗中展現出優於現有療法的潛力。這類進展反映了精準醫療在神經退化性疾病的發展，未來醫院需建立跨專科團隊，以監測藥物的長期療效。此外，另一家公司也報告了針對遺傳性血管性水腫的基因編輯療法，在三期臨床試驗中取得正面數據。這標誌著基因編輯技術已具備解決遺傳性全身性疾病的潛力。專家提醒，臨床醫師需持續關注長期追蹤下的免疫反應。以上是本週醫學領域的重點。 ...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理本週的重點。臨床醫師與藥物治療專家特別關注美國食品藥物管理局，也就是 F D A，近期正式授予輝瑞旗下的藥廠開發的一款藥物，針對脊髓性肌肉萎縮症的突破性療法認定。這項認定能加速審查流程，顯示該藥物在臨床試驗中展現出優於現有療法的潛力。這類進展反映了精準醫療在神經退化性疾病的發展，未來醫院需建立跨專科團隊，以監測藥物的長期療效。此外，另一家公司也報告了針對遺傳性血管性水腫的基因編輯療法，在三期臨床試驗中取得正面數據。這標誌著基因編輯技術已具備解決遺傳性全身性疾病的潛力。專家提醒，臨床醫師需持續關注長期追蹤下的免疫反應。以上是本週醫學領域的重點。 ...</itunes:summary>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-15.mp3" length="1951056" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-15</guid>
+      <itunes:duration>10:50</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 24 週・週五（2026-06-12）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十四週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項醫學進展值得關注。首先是關於脊髓性肌肉萎縮症的突破，輝瑞旗下的生技公司在研藥物 Salanersen 獲得了 F D A 的突破性療法認定。目前市面上的藥物雖然已經不少，但患者對於更長效、且使用起來更輕鬆的治療選擇依然有迫切需求。專家指出，未來醫師將會密切觀察這款藥物在第三階段臨床試驗的數據，看看它在給藥頻率和藥物代謝動力學上，是否真的能超越目前的療法。  接著，我們看到乾癬治療的市場出現了競爭。在最新的第三階段臨床試驗中，一款名為 Zasocitinib 的口服藥物，在清除皮膚病灶的效果上，表現得比現有的藥物更好。這顯示出口服小分子藥物正逐...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十四週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項醫學進展值得關注。首先是關於脊髓性肌肉萎縮症的突破，輝瑞旗下的生技公司在研藥物 Salanersen 獲得了 F D A 的突破性療法認定。目前市面上的藥物雖然已經不少，但患者對於更長效、且使用起來更輕鬆的治療選擇依然有迫切需求。專家指出，未來醫師將會密切觀察這款藥物在第三階段臨床試驗的數據，看看它在給藥頻率和藥物代謝動力學上，是否真的能超越目前的療法。  接著，我們看到乾癬治療的市場出現了競爭。在最新的第三階段臨床試驗中，一款名為 Zasocitinib 的口服藥物，在清除皮膚病灶的效果上，表現得比現有的藥物更好。這顯示出口服小分子藥物正逐...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-12 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-12 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 12 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-12.mp3" length="2279376" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-12</guid>
