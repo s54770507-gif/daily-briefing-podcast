@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 25 週・週三（2026-06-17）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為一名具備實證醫學背景的臨床醫師，我針對本週藥物研發領域的關鍵進展進行了梳理，選取了兩則具備突破性的資訊。  第一則是關於流感預防。美國食品藥物管理局 F D A 授予了 C D 三八八突破性治療認定。這款藥物旨在為高風險成人及青少年提供流感預防。專家分析指出，這標誌著流感防治策略從原本需要宿主免疫系統產生抗體的傳統模式，轉向直接被動防禦。這對於免疫功能低下的族群來說是一大福音，未來臨床決策將增加一項強力武器。  第二則則是關於基因編輯療法。Intellia Therapeutics 公佈了針對遺傳性血管性水腫的新數據，該療法利用 C R I S P ...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為一名具備實證醫學背景的臨床醫師，我針對本週藥物研發領域的關鍵進展進行了梳理，選取了兩則具備突破性的資訊。  第一則是關於流感預防。美國食品藥物管理局 F D A 授予了 C D 三八八突破性治療認定。這款藥物旨在為高風險成人及青少年提供流感預防。專家分析指出，這標誌著流感防治策略從原本需要宿主免疫系統產生抗體的傳統模式，轉向直接被動防禦。這對於免疫功能低下的族群來說是一大福音，未來臨床決策將增加一項強力武器。  第二則則是關於基因編輯療法。Intellia Therapeutics 公佈了針對遺傳性血管性水腫的新數據，該療法利用 C R I S P ...</itunes:summary>
+      <pubDate>Wed, 17 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-17.mp3" length="2461392" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-17</guid>
+      <itunes:duration>13:40</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 25 週・週一（2026-06-15）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理本週的重點。臨床醫師與藥物治療專家特別關注美國食品藥物管理局，也就是 F D A，近期正式授予輝瑞旗下的藥廠開發的一款藥物，針對脊髓性肌肉萎縮症的突破性療法認定。這項認定能加速審查流程，顯示該藥物在臨床試驗中展現出優於現有療法的潛力。這類進展反映了精準醫療在神經退化性疾病的發展，未來醫院需建立跨專科團隊，以監測藥物的長期療效。此外，另一家公司也報告了針對遺傳性血管性水腫的基因編輯療法，在三期臨床試驗中取得正面數據。這標誌著基因編輯技術已具備解決遺傳性全身性疾病的潛力。專家提醒，臨床醫師需持續關注長期追蹤下的免疫反應。以上是本週醫學領域的重點。 ...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理本週的重點。臨床醫師與藥物治療專家特別關注美國食品藥物管理局，也就是 F D A，近期正式授予輝瑞旗下的藥廠開發的一款藥物，針對脊髓性肌肉萎縮症的突破性療法認定。這項認定能加速審查流程，顯示該藥物在臨床試驗中展現出優於現有療法的潛力。這類進展反映了精準醫療在神經退化性疾病的發展，未來醫院需建立跨專科團隊，以監測藥物的長期療效。此外，另一家公司也報告了針對遺傳性血管性水腫的基因編輯療法，在三期臨床試驗中取得正面數據。這標誌著基因編輯技術已具備解決遺傳性全身性疾病的潛力。專家提醒，臨床醫師需持續關注長期追蹤下的免疫反應。以上是本週醫學領域的重點。 ...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-15 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-15 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 15 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-15.mp3" length="1951056" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-15</guid>
