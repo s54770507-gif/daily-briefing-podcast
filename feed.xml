@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 25 週・週五（2026-06-19）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。  首先是來自新英格蘭醫學雜誌的最新消息。美國食品藥物管理局（簡稱 F D A）近日正式授予 C D 三八八，一種用於預防高風險成人與青少年感染流感的廣效性單株抗體，突破性治療認定。這項藥物的重要性在於，它突破了傳統疫苗需要每年對抗原進行匹配的限制，展現出全新的預防機轉。  專家分析指出，傳統流感疫苗對於免疫力較差的老年人或慢性病患來說，保護效果通常有限，而 C D 三八八提供的是直接的中和抗體，能給予病患即時且高濃度的保護力。這代表傳染病防治的趨勢，正在從主動誘導免疫轉向更精準的被動抗體預防。未來醫療院所針對高風險族群的處理程序，可能會出現更多直接中...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。  首先是來自新英格蘭醫學雜誌的最新消息。美國食品藥物管理局（簡稱 F D A）近日正式授予 C D 三八八，一種用於預防高風險成人與青少年感染流感的廣效性單株抗體，突破性治療認定。這項藥物的重要性在於，它突破了傳統疫苗需要每年對抗原進行匹配的限制，展現出全新的預防機轉。  專家分析指出，傳統流感疫苗對於免疫力較差的老年人或慢性病患來說，保護效果通常有限，而 C D 三八八提供的是直接的中和抗體，能給予病患即時且高濃度的保護力。這代表傳染病防治的趨勢，正在從主動誘導免疫轉向更精準的被動抗體預防。未來醫療院所針對高風險族群的處理程序，可能會出現更多直接中...</itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-19.mp3" length="2642688" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-19</guid>
+      <itunes:duration>14:40</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 25 週・週三（2026-06-17）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為一名具備實證醫學背景的臨床醫師，我針對本週藥物研發領域的關鍵進展進行了梳理，選取了兩則具備突破性的資訊。  第一則是關於流感預防。美國食品藥物管理局 F D A 授予了 C D 三八八突破性治療認定。這款藥物旨在為高風險成人及青少年提供流感預防。專家分析指出，這標誌著流感防治策略從原本需要宿主免疫系統產生抗體的傳統模式，轉向直接被動防禦。這對於免疫功能低下的族群來說是一大福音，未來臨床決策將增加一項強力武器。  第二則則是關於基因編輯療法。Intellia Therapeutics 公佈了針對遺傳性血管性水腫的新數據，該療法利用 C R I S P ...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為一名具備實證醫學背景的臨床醫師，我針對本週藥物研發領域的關鍵進展進行了梳理，選取了兩則具備突破性的資訊。  第一則是關於流感預防。美國食品藥物管理局 F D A 授予了 C D 三八八突破性治療認定。這款藥物旨在為高風險成人及青少年提供流感預防。專家分析指出，這標誌著流感防治策略從原本需要宿主免疫系統產生抗體的傳統模式，轉向直接被動防禦。這對於免疫功能低下的族群來說是一大福音，未來臨床決策將增加一項強力武器。  第二則則是關於基因編輯療法。Intellia Therapeutics 公佈了針對遺傳性血管性水腫的新數據，該療法利用 C R I S P ...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-17 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-17 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 17 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-17.mp3" length="2461392" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-17</guid>
