@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 26 週・週一（2026-06-22）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床重要性與社群熱度的藥物研發進展，以下分析報告供你參考。  首先是關於化膿性汗腺炎的第三期 VELA 研究。MoonLake 免疫療法公司公布了針對此疾病的藥物 Sonelokimab，在治療 五十二 週後的長期療效數據，顯示藥物能提供持續性的症狀緩解。這強化了針對 I L-十七 A 與 I L-十七 F 雙重抑制在慢性炎症性疾病中的臨床價值。專家分析指出，化膿性汗腺炎是一種極具挑戰的慢性化膿性皮膚病，過去治療選擇極其有限且效果難以維持。Sonelokimab 作為一種抗 I L-十七 A/F 納米抗體...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床重要性與社群熱度的藥物研發進展，以下分析報告供你參考。  首先是關於化膿性汗腺炎的第三期 VELA 研究。MoonLake 免疫療法公司公布了針對此疾病的藥物 Sonelokimab，在治療 五十二 週後的長期療效數據，顯示藥物能提供持續性的症狀緩解。這強化了針對 I L-十七 A 與 I L-十七 F 雙重抑制在慢性炎症性疾病中的臨床價值。專家分析指出，化膿性汗腺炎是一種極具挑戰的慢性化膿性皮膚病，過去治療選擇極其有限且效果難以維持。Sonelokimab 作為一種抗 I L-十七 A/F 納米抗體...</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-22.mp3" length="3261024" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-22</guid>
+      <itunes:duration>18:07</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 25 週・週五（2026-06-19）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。  首先是來自新英格蘭醫學雜誌的最新消息。美國食品藥物管理局（簡稱 F D A）近日正式授予 C D 三八八，一種用於預防高風險成人與青少年感染流感的廣效性單株抗體，突破性治療認定。這項藥物的重要性在於，它突破了傳統疫苗需要每年對抗原進行匹配的限制，展現出全新的預防機轉。  專家分析指出，傳統流感疫苗對於免疫力較差的老年人或慢性病患來說，保護效果通常有限，而 C D 三八八提供的是直接的中和抗體，能給予病患即時且高濃度的保護力。這代表傳染病防治的趨勢，正在從主動誘導免疫轉向更精準的被動抗體預防。未來醫療院所針對高風險族群的處理程序，可能會出現更多直接中...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十五週，週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。  首先是來自新英格蘭醫學雜誌的最新消息。美國食品藥物管理局（簡稱 F D A）近日正式授予 C D 三八八，一種用於預防高風險成人與青少年感染流感的廣效性單株抗體，突破性治療認定。這項藥物的重要性在於，它突破了傳統疫苗需要每年對抗原進行匹配的限制，展現出全新的預防機轉。  專家分析指出，傳統流感疫苗對於免疫力較差的老年人或慢性病患來說，保護效果通常有限，而 C D 三八八提供的是直接的中和抗體，能給予病患即時且高濃度的保護力。這代表傳染病防治的趨勢，正在從主動誘導免疫轉向更精準的被動抗體預防。未來醫療院所針對高風險族群的處理程序，可能會出現更多直接中...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-19 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-19 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 19 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-19.mp3" length="2642688" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-19</guid>
