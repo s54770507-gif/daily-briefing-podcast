@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 26 週・週三（2026-06-24）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊與藥學指引領域。首先，美國食品藥物管理局 F D A 授予輝瑞的合作夥伴 Biogen 一款名為 Salanersen 的藥物突破性療法認定，這是為了治療脊髓性肌肉萎縮症。這項療法在改善患者病情上展現了顯著的潛力。專家分析指出，這代表未來在治療神經退化性罕見疾病上，臨床醫師將有更多高專一性的藥物選擇。同時，輝瑞的一款抗體偶聯藥物 Sigvotatug Vedotin 在治療非小細胞肺癌的第三期臨床試驗中宣告失敗，未能改善患者存活率。這給產業界一個警示，肺癌的高度複雜性使得單一標靶療法面臨嚴峻挑戰，未來趨勢將會更偏向組合療法。以上是本週醫學領域的重點。 ...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊與藥學指引領域。首先，美國食品藥物管理局 F D A 授予輝瑞的合作夥伴 Biogen 一款名為 Salanersen 的藥物突破性療法認定，這是為了治療脊髓性肌肉萎縮症。這項療法在改善患者病情上展現了顯著的潛力。專家分析指出，這代表未來在治療神經退化性罕見疾病上，臨床醫師將有更多高專一性的藥物選擇。同時，輝瑞的一款抗體偶聯藥物 Sigvotatug Vedotin 在治療非小細胞肺癌的第三期臨床試驗中宣告失敗，未能改善患者存活率。這給產業界一個警示，肺癌的高度複雜性使得單一標靶療法面臨嚴峻挑戰，未來趨勢將會更偏向組合療法。以上是本週醫學領域的重點。 ...</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-24.mp3" length="1746000" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-24</guid>
+      <itunes:duration>09:42</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 26 週・週一（2026-06-22）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床重要性與社群熱度的藥物研發進展，以下分析報告供你參考。  首先是關於化膿性汗腺炎的第三期 VELA 研究。MoonLake 免疫療法公司公布了針對此疾病的藥物 Sonelokimab，在治療 五十二 週後的長期療效數據，顯示藥物能提供持續性的症狀緩解。這強化了針對 I L-十七 A 與 I L-十七 F 雙重抑制在慢性炎症性疾病中的臨床價值。專家分析指出，化膿性汗腺炎是一種極具挑戰的慢性化膿性皮膚病，過去治療選擇極其有限且效果難以維持。Sonelokimab 作為一種抗 I L-十七 A/F 納米抗體...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床重要性與社群熱度的藥物研發進展，以下分析報告供你參考。  首先是關於化膿性汗腺炎的第三期 VELA 研究。MoonLake 免疫療法公司公布了針對此疾病的藥物 Sonelokimab，在治療 五十二 週後的長期療效數據，顯示藥物能提供持續性的症狀緩解。這強化了針對 I L-十七 A 與 I L-十七 F 雙重抑制在慢性炎症性疾病中的臨床價值。專家分析指出，化膿性汗腺炎是一種極具挑戰的慢性化膿性皮膚病，過去治療選擇極其有限且效果難以維持。Sonelokimab 作為一種抗 I L-十七 A/F 納米抗體...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-22 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-22 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 22 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-22.mp3" length="3261024" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-22</guid>
