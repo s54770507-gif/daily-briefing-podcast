@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 26 週・週五（2026-06-26）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週關於 脊髓性肌肉萎縮症，也就是 S M A，有重大突破。生物科技公司 輝瑞旗下的 莎拉能生，獲得了美國 F D A 的突破性治療認定。這項認定能加速藥物的開發流程，對病患來說是個重要的里程碑。專家分析認為，這款藥物若能改善治療方式，將提升患者的配合度。此外，大塚製藥在針對成人 注意力不足過動症，也就是 A D H D 的藥物臨床試驗上，也取得了正面成果。這為那些擔心傳統藥物副作用的患者，提供了更穩定的選擇。建議臨床醫師建立動態監測機制，隨時更新用藥指引。以上是本週醫學領域的重點。  進入今天的第二個主題，我們來談談國際藥廠的市場動態。三月份的...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週關於 脊髓性肌肉萎縮症，也就是 S M A，有重大突破。生物科技公司 輝瑞旗下的 莎拉能生，獲得了美國 F D A 的突破性治療認定。這項認定能加速藥物的開發流程，對病患來說是個重要的里程碑。專家分析認為，這款藥物若能改善治療方式，將提升患者的配合度。此外，大塚製藥在針對成人 注意力不足過動症，也就是 A D H D 的藥物臨床試驗上，也取得了正面成果。這為那些擔心傳統藥物副作用的患者，提供了更穩定的選擇。建議臨床醫師建立動態監測機制，隨時更新用藥指引。以上是本週醫學領域的重點。  進入今天的第二個主題，我們來談談國際藥廠的市場動態。三月份的...</itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-26.mp3" length="1785600" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-26</guid>
+      <itunes:duration>09:55</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 26 週・週三（2026-06-24）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊與藥學指引領域。首先，美國食品藥物管理局 F D A 授予輝瑞的合作夥伴 Biogen 一款名為 Salanersen 的藥物突破性療法認定，這是為了治療脊髓性肌肉萎縮症。這項療法在改善患者病情上展現了顯著的潛力。專家分析指出，這代表未來在治療神經退化性罕見疾病上，臨床醫師將有更多高專一性的藥物選擇。同時，輝瑞的一款抗體偶聯藥物 Sigvotatug Vedotin 在治療非小細胞肺癌的第三期臨床試驗中宣告失敗，未能改善患者存活率。這給產業界一個警示，肺癌的高度複雜性使得單一標靶療法面臨嚴峻挑戰，未來趨勢將會更偏向組合療法。以上是本週醫學領域的重點。 ...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊與藥學指引領域。首先，美國食品藥物管理局 F D A 授予輝瑞的合作夥伴 Biogen 一款名為 Salanersen 的藥物突破性療法認定，這是為了治療脊髓性肌肉萎縮症。這項療法在改善患者病情上展現了顯著的潛力。專家分析指出，這代表未來在治療神經退化性罕見疾病上，臨床醫師將有更多高專一性的藥物選擇。同時，輝瑞的一款抗體偶聯藥物 Sigvotatug Vedotin 在治療非小細胞肺癌的第三期臨床試驗中宣告失敗，未能改善患者存活率。這給產業界一個警示，肺癌的高度複雜性使得單一標靶療法面臨嚴峻挑戰，未來趨勢將會更偏向組合療法。以上是本週醫學領域的重點。 ...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-24 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-24 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 24 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-24.mp3" length="1746000" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-24</guid>
