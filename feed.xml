@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 27 週・週一（2026-06-29）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十七 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重要的醫學研發進展。首先是 輝瑞 旗下的 Bridge Bio 公司，他們公布了治療軟骨發育不全症的口服藥物試驗數據，並且刊登在 新英格蘭醫學雜誌。這項藥物能顯著改善病童的身高生長速率。過去這類患者多半需要頻繁的皮下注射，未來轉為口服藥物後，病童的治療意願和生活品質將大幅提升。這也象徵罕見疾病治療正在從傳統的生長管理，進化到更精準的分子機制調控。  接下來進入今天的第二個主題。美國食品藥物管理局 F D A 授予了另一款治療膠質瘤藥物的突破性療法認定。這項藥物在突破腦部血腦屏障的表現上非常亮眼。對神經腫瘤科醫師來說，未來的臨床治療路徑將...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十七 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重要的醫學研發進展。首先是 輝瑞 旗下的 Bridge Bio 公司，他們公布了治療軟骨發育不全症的口服藥物試驗數據，並且刊登在 新英格蘭醫學雜誌。這項藥物能顯著改善病童的身高生長速率。過去這類患者多半需要頻繁的皮下注射，未來轉為口服藥物後，病童的治療意願和生活品質將大幅提升。這也象徵罕見疾病治療正在從傳統的生長管理，進化到更精準的分子機制調控。  接下來進入今天的第二個主題。美國食品藥物管理局 F D A 授予了另一款治療膠質瘤藥物的突破性療法認定。這項藥物在突破腦部血腦屏障的表現上非常亮眼。對神經腫瘤科醫師來說，未來的臨床治療路徑將...</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-29.mp3" length="2129616" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-29</guid>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 26 週・週五（2026-06-26）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週關於 脊髓性肌肉萎縮症，也就是 S M A，有重大突破。生物科技公司 輝瑞旗下的 莎拉能生，獲得了美國 F D A 的突破性治療認定。這項認定能加速藥物的開發流程，對病患來說是個重要的里程碑。專家分析認為，這款藥物若能改善治療方式，將提升患者的配合度。此外，大塚製藥在針對成人 注意力不足過動症，也就是 A D H D 的藥物臨床試驗上，也取得了正面成果。這為那些擔心傳統藥物副作用的患者，提供了更穩定的選擇。建議臨床醫師建立動態監測機制，隨時更新用藥指引。以上是本週醫學領域的重點。  進入今天的第二個主題，我們來談談國際藥廠的市場動態。三月份的...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十六 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週關於 脊髓性肌肉萎縮症，也就是 S M A，有重大突破。生物科技公司 輝瑞旗下的 莎拉能生，獲得了美國 F D A 的突破性治療認定。這項認定能加速藥物的開發流程，對病患來說是個重要的里程碑。專家分析認為，這款藥物若能改善治療方式，將提升患者的配合度。此外，大塚製藥在針對成人 注意力不足過動症，也就是 A D H D 的藥物臨床試驗上，也取得了正面成果。這為那些擔心傳統藥物副作用的患者，提供了更穩定的選擇。建議臨床醫師建立動態監測機制，隨時更新用藥指引。以上是本週醫學領域的重點。  進入今天的第二個主題，我們來談談國際藥廠的市場動態。三月份的...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-06-26 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-06-26 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 26 Jun 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-06-26.mp3" length="1785600" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-26</guid>
