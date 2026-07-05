@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 28 週・週一（2026-07-06）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月六日，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們針對兩則具有高度臨床影響力的新聞進行分析。首先是羅氏藥廠，他們宣布針對 K R A S G 一二 C 突變的非小細胞肺癌新藥 D i v a r a s i b，在第三期臨床試驗中取得了正面數據，這意味著該藥物已具備挑戰現有標準治療的實力。從專家角度來看，這個標靶曾經被認為是不可成藥的，但現在不僅顯示了小分子抑制劑的進展，更透過優化的藥物動力學設計，展現出更好的選擇性。對臨床醫師來說，未來在面對這類患者時，將會有更多元的治療選擇。第二則消息是華盛頓大學醫學院開發的新型 C A R - T 細胞療法，獲得了美國 F D A 的突破性療法認定。這項...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月六日，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們針對兩則具有高度臨床影響力的新聞進行分析。首先是羅氏藥廠，他們宣布針對 K R A S G 一二 C 突變的非小細胞肺癌新藥 D i v a r a s i b，在第三期臨床試驗中取得了正面數據，這意味著該藥物已具備挑戰現有標準治療的實力。從專家角度來看，這個標靶曾經被認為是不可成藥的，但現在不僅顯示了小分子抑制劑的進展，更透過優化的藥物動力學設計，展現出更好的選擇性。對臨床醫師來說，未來在面對這類患者時，將會有更多元的治療選擇。第二則消息是華盛頓大學醫學院開發的新型 C A R - T 細胞療法，獲得了美國 F D A 的突破性療法認定。這項...</itunes:summary>
+      <pubDate>Mon, 06 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-06.mp3" length="1940112" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-06</guid>
+      <itunes:duration>10:46</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 27 週・週五（2026-07-03）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十七 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床與藥物研發指標性的重大消息，我為您精選了兩則分析。首先是關於 羅 氏 在 肺癌治療上的進展。羅 氏 在針對 K R A S G 一 二 C 突變的非小細胞肺癌第三期臨床試驗中，取得了關鍵勝利。數據顯示，其候選藥物的療效優於目前的市場領導者，這進一步強化了針對特定基因突變的精準醫療路徑。K R A S 突變過去常被視為不可成藥的領域，這次突破不只是藥廠間的角力，更可能改寫現行的二線或是一線治療指引。醫師們需要持續追蹤其副作用表現，特別是肝毒性與腸胃道反應的管控。  接著進入醫學領域的第二則消息。美國 F...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十七 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床與藥物研發指標性的重大消息，我為您精選了兩則分析。首先是關於 羅 氏 在 肺癌治療上的進展。羅 氏 在針對 K R A S G 一 二 C 突變的非小細胞肺癌第三期臨床試驗中，取得了關鍵勝利。數據顯示，其候選藥物的療效優於目前的市場領導者，這進一步強化了針對特定基因突變的精準醫療路徑。K R A S 突變過去常被視為不可成藥的領域，這次突破不只是藥廠間的角力，更可能改寫現行的二線或是一線治療指引。醫師們需要持續追蹤其副作用表現，特別是肝毒性與腸胃道反應的管控。  接著進入醫學領域的第二則消息。美國 F...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-03 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-03 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 03 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-03.mp3" length="1946304" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-03</guid>
