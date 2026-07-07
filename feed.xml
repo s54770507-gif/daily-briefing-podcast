@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 28 週・週三（2026-07-08）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月八號，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，這是一份基於本週醫學與藥學領域熱門資訊的專業分析報告。  首先是甲狀腺眼病的突破，美國 F D A 正式核准了首款用於治療甲狀腺眼病的藥物，這項進展為長期缺乏非手術療法的患者提供了新選擇。專家指出，過去治療手段多局限於類固醇或風險較高的減壓手術，效果往往不盡理想，這次核准代表精準醫療正式進入眼科領域。未來臨床醫師需要重新檢視診斷分級與轉診標準，並建議眼科與內分泌科建立更緊密的跨科部協作模式，以優化病程管理。  另外在難治型憂鬱症治療方面，針對該領域的療法 C O M P 三六零釋出了六個月的長期追蹤數據，證實了該療法具備快速且持久的抗憂鬱效果。專家分析...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月八號，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，這是一份基於本週醫學與藥學領域熱門資訊的專業分析報告。  首先是甲狀腺眼病的突破，美國 F D A 正式核准了首款用於治療甲狀腺眼病的藥物，這項進展為長期缺乏非手術療法的患者提供了新選擇。專家指出，過去治療手段多局限於類固醇或風險較高的減壓手術，效果往往不盡理想，這次核准代表精準醫療正式進入眼科領域。未來臨床醫師需要重新檢視診斷分級與轉診標準，並建議眼科與內分泌科建立更緊密的跨科部協作模式，以優化病程管理。  另外在難治型憂鬱症治療方面，針對該領域的療法 C O M P 三六零釋出了六個月的長期追蹤數據，證實了該療法具備快速且持久的抗憂鬱效果。專家分析...</itunes:summary>
+      <pubDate>Wed, 08 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-08.mp3" length="2553696" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-08</guid>
+      <itunes:duration>14:11</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 28 週・週一（2026-07-06）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月六日，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們針對兩則具有高度臨床影響力的新聞進行分析。首先是羅氏藥廠，他們宣布針對 K R A S G 一二 C 突變的非小細胞肺癌新藥 D i v a r a s i b，在第三期臨床試驗中取得了正面數據，這意味著該藥物已具備挑戰現有標準治療的實力。從專家角度來看，這個標靶曾經被認為是不可成藥的，但現在不僅顯示了小分子抑制劑的進展，更透過優化的藥物動力學設計，展現出更好的選擇性。對臨床醫師來說，未來在面對這類患者時，將會有更多元的治療選擇。第二則消息是華盛頓大學醫學院開發的新型 C A R - T 細胞療法，獲得了美國 F D A 的突破性療法認定。這項...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月六日，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們針對兩則具有高度臨床影響力的新聞進行分析。首先是羅氏藥廠，他們宣布針對 K R A S G 一二 C 突變的非小細胞肺癌新藥 D i v a r a s i b，在第三期臨床試驗中取得了正面數據，這意味著該藥物已具備挑戰現有標準治療的實力。從專家角度來看，這個標靶曾經被認為是不可成藥的，但現在不僅顯示了小分子抑制劑的進展，更透過優化的藥物動力學設計，展現出更好的選擇性。對臨床醫師來說，未來在面對這類患者時，將會有更多元的治療選擇。第二則消息是華盛頓大學醫學院開發的新型 C A R - T 細胞療法，獲得了美國 F D A 的突破性療法認定。這項...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-06 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-06 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 06 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-06.mp3" length="1940112" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-06</guid>
