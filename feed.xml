@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 29 週・週一（2026-07-13）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十九 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理了兩則最具指標性的醫學新聞。第一則關於下視丘肥胖症的突破，這項研究發表於 新英格蘭醫學雜誌，證實了一款名為 Set me la no tide 的藥物，在治療罕見腦損傷引起的肥胖症上，療效顯著。這是第一款獲得 F D A 核准用於此類適應症的療法，解決了長期以來難以管理的內分泌併發症。專家分析指出，這款藥物透過修復黑素皮質素受體路徑，精準回應了病患無法控制飢餓感的臨床需求，未來臨床醫師在處理這類腦損傷病患時，除了傳統手術，也將多出一項強而有力的藥物選擇。  進入第二個醫學主題，Biogen 公司的藥物 Sa la ner sen 獲得了 ...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十九 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理了兩則最具指標性的醫學新聞。第一則關於下視丘肥胖症的突破，這項研究發表於 新英格蘭醫學雜誌，證實了一款名為 Set me la no tide 的藥物，在治療罕見腦損傷引起的肥胖症上，療效顯著。這是第一款獲得 F D A 核准用於此類適應症的療法，解決了長期以來難以管理的內分泌併發症。專家分析指出，這款藥物透過修復黑素皮質素受體路徑，精準回應了病患無法控制飢餓感的臨床需求，未來臨床醫師在處理這類腦損傷病患時，除了傳統手術，也將多出一項強而有力的藥物選擇。  進入第二個醫學主題，Biogen 公司的藥物 Sa la ner sen 獲得了 ...</itunes:summary>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-13.mp3" length="2079792" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-13</guid>
+      <itunes:duration>11:33</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 28 週・週五（2026-07-10）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十八 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，作為具備實證醫學訓練的臨床醫師，我已經從本週的熱門醫學資訊中，篩選出兩則對藥物研發與慢性病治療策略最具指標性的進展。  首先是新型的 G L P - 一 受體促效劑，在第三期臨床試驗中展現了顯著的療效，而且給藥頻率成功優化為每兩週一次。這項進展旨在透過減少注射頻率，解決現行每週一次針劑對患者帶來的心理負擔。從藥物治療學來看，市場正從療效競爭轉向便利性與依從性競爭。這標誌著治療進入了長效針劑的新時代。未來臨床醫師需要關注此類藥物在減重維持期的長期安全性資料，特別是肌肉流失量與停藥後的反彈效應。  第二個重點是美國 F D A 授予了 P l i x...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十八 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，作為具備實證醫學訓練的臨床醫師，我已經從本週的熱門醫學資訊中，篩選出兩則對藥物研發與慢性病治療策略最具指標性的進展。  首先是新型的 G L P - 一 受體促效劑，在第三期臨床試驗中展現了顯著的療效，而且給藥頻率成功優化為每兩週一次。這項進展旨在透過減少注射頻率，解決現行每週一次針劑對患者帶來的心理負擔。從藥物治療學來看，市場正從療效競爭轉向便利性與依從性競爭。這標誌著治療進入了長效針劑的新時代。未來臨床醫師需要關注此類藥物在減重維持期的長期安全性資料，特別是肌肉流失量與停藥後的反彈效應。  第二個重點是美國 F D A 授予了 P l i x...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-10 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-10 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 10 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-10.mp3" length="2560320" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-10</guid>
