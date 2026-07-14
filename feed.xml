@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 29 週・週三（2026-07-15）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月十五日，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為臨床醫師與藥物治療學專家，針對近期醫學與藥物開發領域的熱門趨勢，我挑選了兩項最具臨床實務與研究深度的進展進行分析。  首先是關於迷幻藥物與突破性治療的消息。根據藥學時報的報導，美國 F D A 針對迷幻藥物授予了突破性治療的資格，這顯示出監管機構對於這類療法在精神疾病治療上的潛力，相當重視。這項資格旨在加速開發與審查流程，特別是針對那些初步臨床證據顯示，優於現有療法的藥物。從藥物治療學的角度看，迷幻藥物正從傳統的管制物質，轉向成為輔助心理治療的藥理工具。這項資格的授予，意味著 F D A 同意，這些藥物或許能解決目前憂鬱症或 P T S D 治療...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月十五日，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為臨床醫師與藥物治療學專家，針對近期醫學與藥物開發領域的熱門趨勢，我挑選了兩項最具臨床實務與研究深度的進展進行分析。  首先是關於迷幻藥物與突破性治療的消息。根據藥學時報的報導，美國 F D A 針對迷幻藥物授予了突破性治療的資格，這顯示出監管機構對於這類療法在精神疾病治療上的潛力，相當重視。這項資格旨在加速開發與審查流程，特別是針對那些初步臨床證據顯示，優於現有療法的藥物。從藥物治療學的角度看，迷幻藥物正從傳統的管制物質，轉向成為輔助心理治療的藥理工具。這項資格的授予，意味著 F D A 同意，這些藥物或許能解決目前憂鬱症或 P T S D 治療...</itunes:summary>
+      <pubDate>Wed, 15 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-15.mp3" length="3246192" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-15</guid>
+      <itunes:duration>18:02</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 29 週・週一（2026-07-13）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十九 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理了兩則最具指標性的醫學新聞。第一則關於下視丘肥胖症的突破，這項研究發表於 新英格蘭醫學雜誌，證實了一款名為 Set me la no tide 的藥物，在治療罕見腦損傷引起的肥胖症上，療效顯著。這是第一款獲得 F D A 核准用於此類適應症的療法，解決了長期以來難以管理的內分泌併發症。專家分析指出，這款藥物透過修復黑素皮質素受體路徑，精準回應了病患無法控制飢餓感的臨床需求，未來臨床醫師在處理這類腦損傷病患時，除了傳統手術，也將多出一項強而有力的藥物選擇。  進入第二個醫學主題，Biogen 公司的藥物 Sa la ner sen 獲得了 ...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 二十九 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理了兩則最具指標性的醫學新聞。第一則關於下視丘肥胖症的突破，這項研究發表於 新英格蘭醫學雜誌，證實了一款名為 Set me la no tide 的藥物，在治療罕見腦損傷引起的肥胖症上，療效顯著。這是第一款獲得 F D A 核准用於此類適應症的療法，解決了長期以來難以管理的內分泌併發症。專家分析指出，這款藥物透過修復黑素皮質素受體路徑，精準回應了病患無法控制飢餓感的臨床需求，未來臨床醫師在處理這類腦損傷病患時，除了傳統手術，也將多出一項強而有力的藥物選擇。  進入第二個醫學主題，Biogen 公司的藥物 Sa la ner sen 獲得了 ...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-13 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-13 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 13 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-13.mp3" length="2079792" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-13</guid>
