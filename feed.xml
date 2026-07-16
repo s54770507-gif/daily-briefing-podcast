@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 29 週・週五（2026-07-17）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十九週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項關鍵進展。首先是美國食品藥物管理局 F D A 授予了一款名為 Plixo ra fenib 的藥物突破性療法資格，這款藥物是用來治療 BRAF V 六零零 E 突變的神經膠質瘤。這種腫瘤通常很難治療，因為藥物很難穿過血腦屏障。專家認為，這項資格代表該藥物在初步測試中效果不錯，建議腫瘤科醫師應該儘早為患者安排基因定序，以便規劃治療。第二項進展是關於血友病的治療。第三期臨床試驗公布了 Mar sta ci mab 的中期數據，這是一種新型抗組織因子途徑抑制劑，適合血友病 A 型與 B 型的兒童患者。它最大的優勢是皮下注射的便利性，能大幅減輕孩子們...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第二十九週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項關鍵進展。首先是美國食品藥物管理局 F D A 授予了一款名為 Plixo ra fenib 的藥物突破性療法資格，這款藥物是用來治療 BRAF V 六零零 E 突變的神經膠質瘤。這種腫瘤通常很難治療，因為藥物很難穿過血腦屏障。專家認為，這項資格代表該藥物在初步測試中效果不錯，建議腫瘤科醫師應該儘早為患者安排基因定序，以便規劃治療。第二項進展是關於血友病的治療。第三期臨床試驗公布了 Mar sta ci mab 的中期數據，這是一種新型抗組織因子途徑抑制劑，適合血友病 A 型與 B 型的兒童患者。它最大的優勢是皮下注射的便利性，能大幅減輕孩子們...</itunes:summary>
+      <pubDate>Fri, 17 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-17.mp3" length="2009664" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-17</guid>
+      <itunes:duration>11:09</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 29 週・週三（2026-07-15）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月十五日，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為臨床醫師與藥物治療學專家，針對近期醫學與藥物開發領域的熱門趨勢，我挑選了兩項最具臨床實務與研究深度的進展進行分析。  首先是關於迷幻藥物與突破性治療的消息。根據藥學時報的報導，美國 F D A 針對迷幻藥物授予了突破性治療的資格，這顯示出監管機構對於這類療法在精神疾病治療上的潛力，相當重視。這項資格旨在加速開發與審查流程，特別是針對那些初步臨床證據顯示，優於現有療法的藥物。從藥物治療學的角度看，迷幻藥物正從傳統的管制物質，轉向成為輔助心理治療的藥理工具。這項資格的授予，意味著 F D A 同意，這些藥物或許能解決目前憂鬱症或 P T S D 治療...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月十五日，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為臨床醫師與藥物治療學專家，針對近期醫學與藥物開發領域的熱門趨勢，我挑選了兩項最具臨床實務與研究深度的進展進行分析。  首先是關於迷幻藥物與突破性治療的消息。根據藥學時報的報導，美國 F D A 針對迷幻藥物授予了突破性治療的資格，這顯示出監管機構對於這類療法在精神疾病治療上的潛力，相當重視。這項資格旨在加速開發與審查流程，特別是針對那些初步臨床證據顯示，優於現有療法的藥物。從藥物治療學的角度看，迷幻藥物正從傳統的管制物質，轉向成為輔助心理治療的藥理工具。這項資格的授予，意味著 F D A 同意，這些藥物或許能解決目前憂鬱症或 P T S D 治療...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-15 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-15 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 15 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-15.mp3" length="3246192" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-15</guid>
