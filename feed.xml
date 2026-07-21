@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 30 週・週三（2026-07-22）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重點資訊。首先，輝瑞與默克合作研發的每週一次口服 H I V 治療藥物，在三期臨床數據中表現優異。這意味著 H I V 治療正從每日服藥，轉向低頻率的長效模式。對於患者來說，這不僅能減輕心理負擔，還能避免因服藥造成的病患標籤化。未來，我們需要持續觀察該藥物在複雜共病患者身上的長期效果。其次，美國食品藥物管理局啟動了國家優先憑證試點計畫。這個機制透過審查優先權，激勵藥廠針對重大疾病投入研發。這對加速創新藥物上市很有幫助，但身為醫師，我也提醒大家，在享受加速紅利的同時，針對上市後的藥物安全監測必須更加嚴格。總結來說，醫藥研發領域正處於依從性優...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重點資訊。首先，輝瑞與默克合作研發的每週一次口服 H I V 治療藥物，在三期臨床數據中表現優異。這意味著 H I V 治療正從每日服藥，轉向低頻率的長效模式。對於患者來說，這不僅能減輕心理負擔，還能避免因服藥造成的病患標籤化。未來，我們需要持續觀察該藥物在複雜共病患者身上的長期效果。其次，美國食品藥物管理局啟動了國家優先憑證試點計畫。這個機制透過審查優先權，激勵藥廠針對重大疾病投入研發。這對加速創新藥物上市很有幫助，但身為醫師，我也提醒大家，在享受加速紅利的同時，針對上市後的藥物安全監測必須更加嚴格。總結來說，醫藥研發領域正處於依從性優...</itunes:summary>
+      <pubDate>Wed, 22 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-22.mp3" length="1971504" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-22</guid>
+      <itunes:duration>10:57</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 30 週・週一（2026-07-20）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月二十號，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週 FDA 大動作頻繁，近期授予了包括 M D M A 和裸蓋菇素在內的多款迷幻藥物突破性治療資格。這顯示出監管機構正積極回應精神健康領域中，對於抗藥性疾病的迫切需求。從臨床角度來看，傳統抗憂鬱藥物往往起效慢，且部分療效並不理想，迷幻藥提供了一種不同於以往的治療機制，這在醫學上極具革命性。不過，這也對臨床醫師帶來了挑戰，像是如何建立藥物輔助心理治療的規範，以及面對物質濫用的潛在風險。這項趨勢反映了 FDA 正從保守監管，轉向支持實證探索，未來的關鍵就在於，如何在療效與用藥安全之間取得平衡。另外，在阿茲海默症藥物方面，生物科技大廠 Biogen 在藥...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月二十號，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週 FDA 大動作頻繁，近期授予了包括 M D M A 和裸蓋菇素在內的多款迷幻藥物突破性治療資格。這顯示出監管機構正積極回應精神健康領域中，對於抗藥性疾病的迫切需求。從臨床角度來看，傳統抗憂鬱藥物往往起效慢，且部分療效並不理想，迷幻藥提供了一種不同於以往的治療機制，這在醫學上極具革命性。不過，這也對臨床醫師帶來了挑戰，像是如何建立藥物輔助心理治療的規範，以及面對物質濫用的潛在風險。這項趨勢反映了 FDA 正從保守監管，轉向支持實證探索，未來的關鍵就在於，如何在療效與用藥安全之間取得平衡。另外，在阿茲海默症藥物方面，生物科技大廠 Biogen 在藥...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-20 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-20 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 20 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-20.mp3" length="2460816" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-20</guid>
