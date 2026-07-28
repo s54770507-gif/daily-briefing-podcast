@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 31 週・週三（2026-07-29）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十一 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們關注長新冠的治療以及抗體偶聯藥物在癌症治療上的突破。首先是關於長新冠的研究，一項針對長新冠患者的臨床試驗顯示，比起傳統治療，採用整合照護路徑能更有效地改善病患的生活品質。專家分析指出，長新冠症狀非常複雜，單一藥物很難解決問題，醫療體系應該轉向跨科別的團隊協作。建議臨床醫師在面對這類個案時，主動結合復健科與心理諮商。另一項重要進展是關於晚期胃癌的治療，研究發現一種抗體偶聯藥物，也就是我們常說的 A D C 藥物，能顯著提升二線治療的存活率。這標誌著胃癌治療進入了精準分型時代，醫師在治療時應提早進行基因檢測。總結來說，醫學界正同時推動抗體偶聯...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十一 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們關注長新冠的治療以及抗體偶聯藥物在癌症治療上的突破。首先是關於長新冠的研究，一項針對長新冠患者的臨床試驗顯示，比起傳統治療，採用整合照護路徑能更有效地改善病患的生活品質。專家分析指出，長新冠症狀非常複雜，單一藥物很難解決問題，醫療體系應該轉向跨科別的團隊協作。建議臨床醫師在面對這類個案時，主動結合復健科與心理諮商。另一項重要進展是關於晚期胃癌的治療，研究發現一種抗體偶聯藥物，也就是我們常說的 A D C 藥物，能顯著提升二線治療的存活率。這標誌著胃癌治療進入了精準分型時代，醫師在治療時應提早進行基因檢測。總結來說，醫學界正同時推動抗體偶聯...</itunes:summary>
+      <pubDate>Wed, 29 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-29.mp3" length="1993968" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-29</guid>
+      <itunes:duration>11:04</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 31 週・週一（2026-07-27）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月二十七日，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週的醫學進展呈現出兩個明確趨勢，第一是標靶治療在慢性病與免疫疾病領域的深度擴展，第二是代謝治療進入了多靶點時代。  首先，美國食品藥物管理局 F D A 核准了名為 Lumvoa 的藥物，用來治療甲狀腺眼病變。這款藥物適用於病程的主動期與慢性期，這是一個很重要的進展，因為過去的治療大多侷限在急性發炎期，但慢性期的纖維化階段同樣困擾著患者。臨床醫師未來在決策時，需要更精確區分病人的發炎程度與視力威脅等級，也要謹慎監控抗體治療可能帶來的免疫副作用。  另一個重點是關於禮來公司的三效致效劑 Retatrutide，它在兩項針對肥胖症的第三期臨床試驗中取...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第七月二十七日，週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週的醫學進展呈現出兩個明確趨勢，第一是標靶治療在慢性病與免疫疾病領域的深度擴展，第二是代謝治療進入了多靶點時代。  首先，美國食品藥物管理局 F D A 核准了名為 Lumvoa 的藥物，用來治療甲狀腺眼病變。這款藥物適用於病程的主動期與慢性期，這是一個很重要的進展，因為過去的治療大多侷限在急性發炎期，但慢性期的纖維化階段同樣困擾著患者。臨床醫師未來在決策時，需要更精確區分病人的發炎程度與視力威脅等級，也要謹慎監控抗體治療可能帶來的免疫副作用。  另一個重點是關於禮來公司的三效致效劑 Retatrutide，它在兩項針對肥胖症的第三期臨床試驗中取...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-27 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-27 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 27 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-27.mp3" length="2227824" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-27</guid>
