@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 31 週・週五（2026-07-31）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十一 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重點值得關注，首先是關於脊髓性肌肉萎縮症的突破。輝瑞旗下藥廠的候選藥物，現在已經獲得了 F D A 的突破性療法認定。這項認定旨在加速嚴重疾病的審查，初步數據顯示它在治療上很有潛力。目前的治療方案雖然有進展，但長期效果還有優化空間。這項技術使用了 A S O 平台，重點在於能否降低副作用，並改善中樞神經系統的生物利用度。臨床醫師需要密切觀察接下來的第三期臨床數據，看看它在運動功能評分上與現有療法的差異，這將決定它未來的治療地位。  接著我們來看杜氏肌肉失養症的進展。最近有一項細胞療法的第三期臨床試驗，成功減緩了患者的疾病進程。這對缺乏根...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十一 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重點值得關注，首先是關於脊髓性肌肉萎縮症的突破。輝瑞旗下藥廠的候選藥物，現在已經獲得了 F D A 的突破性療法認定。這項認定旨在加速嚴重疾病的審查，初步數據顯示它在治療上很有潛力。目前的治療方案雖然有進展，但長期效果還有優化空間。這項技術使用了 A S O 平台，重點在於能否降低副作用，並改善中樞神經系統的生物利用度。臨床醫師需要密切觀察接下來的第三期臨床數據，看看它在運動功能評分上與現有療法的差異，這將決定它未來的治療地位。  接著我們來看杜氏肌肉失養症的進展。最近有一項細胞療法的第三期臨床試驗，成功減緩了患者的疾病進程。這對缺乏根...</itunes:summary>
+      <pubDate>Fri, 31 Jul 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-31.mp3" length="2441664" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-31</guid>
+      <itunes:duration>13:33</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 31 週・週三（2026-07-29）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十一 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們關注長新冠的治療以及抗體偶聯藥物在癌症治療上的突破。首先是關於長新冠的研究，一項針對長新冠患者的臨床試驗顯示，比起傳統治療，採用整合照護路徑能更有效地改善病患的生活品質。專家分析指出，長新冠症狀非常複雜，單一藥物很難解決問題，醫療體系應該轉向跨科別的團隊協作。建議臨床醫師在面對這類個案時，主動結合復健科與心理諮商。另一項重要進展是關於晚期胃癌的治療，研究發現一種抗體偶聯藥物，也就是我們常說的 A D C 藥物，能顯著提升二線治療的存活率。這標誌著胃癌治療進入了精準分型時代，醫師在治療時應提早進行基因檢測。總結來說，醫學界正同時推動抗體偶聯...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十一 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們關注長新冠的治療以及抗體偶聯藥物在癌症治療上的突破。首先是關於長新冠的研究，一項針對長新冠患者的臨床試驗顯示，比起傳統治療，採用整合照護路徑能更有效地改善病患的生活品質。專家分析指出，長新冠症狀非常複雜，單一藥物很難解決問題，醫療體系應該轉向跨科別的團隊協作。建議臨床醫師在面對這類個案時，主動結合復健科與心理諮商。另一項重要進展是關於晚期胃癌的治療，研究發現一種抗體偶聯藥物，也就是我們常說的 A D C 藥物，能顯著提升二線治療的存活率。這標誌著胃癌治療進入了精準分型時代，醫師在治療時應提早進行基因檢測。總結來說，醫學界正同時推動抗體偶聯...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-07-29 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-07-29 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 29 Jul 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-07-29.mp3" length="1993968" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-29</guid>
