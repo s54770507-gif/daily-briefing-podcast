@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 32 週・週三（2026-08-05）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 三十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們聚焦在癌症精準治療與基因治療的進展。首先，美國 F D A 授予了禮來開發的口服藥物 Olomorasib 突破性治療資格。這款藥物是用來治療特定的胰臟癌。胰臟癌一直被稱為癌中之王，因為腫瘤微環境太複雜，長期以來缺乏好的標靶藥物。Olomorasib 針對的是 K R A S G 一二 C 突變，這次獲得認證，代表它在早期試驗中表現亮眼。對臨床來說，這是胰臟癌走向個體化治療的一大步。另外，針對罕見疾病杜氏肌營養不良症，有一項三期臨床試驗有了重大發現。一種新的細胞療法被證實能有效減緩疾病惡化。這對藥學界是一個重要的轉折，因為這意味著我們從...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 三十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們聚焦在癌症精準治療與基因治療的進展。首先，美國 F D A 授予了禮來開發的口服藥物 Olomorasib 突破性治療資格。這款藥物是用來治療特定的胰臟癌。胰臟癌一直被稱為癌中之王，因為腫瘤微環境太複雜，長期以來缺乏好的標靶藥物。Olomorasib 針對的是 K R A S G 一二 C 突變，這次獲得認證，代表它在早期試驗中表現亮眼。對臨床來說，這是胰臟癌走向個體化治療的一大步。另外，針對罕見疾病杜氏肌營養不良症，有一項三期臨床試驗有了重大發現。一種新的細胞療法被證實能有效減緩疾病惡化。這對藥學界是一個重要的轉折，因為這意味著我們從...</itunes:summary>
+      <pubDate>Wed, 05 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-05.mp3" length="2126736" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-05</guid>
+      <itunes:duration>11:48</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 32 週・週一（2026-08-03）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是 2026 年第 32 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最重要的動態是，生技公司輝瑞的藥物 Salanersen 獲得了 F D A 的突破性治療認定，這款藥物是用來治療脊髓性肌肉萎縮症的。這項認定能加速藥物的研發與審查進程。專家指出，脊髓性肌肉萎縮症的治療領域已經有許多成功藥物，Salanersen 的加入顯示藥廠持續努力改善病患的生活品質。獲得這項認定，意味著該藥物在初步臨床數據中展現了顯著的優勢。臨床醫師目前需要持續追蹤該藥物的試驗進展，並評估它未來是否能成為治療首選。  進入今天的第二個主題，同樣是醫學與藥學領域。我們看到卡里奧法姆公司的 Selinexor 在治療子宮內膜癌的第三期臨床試...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是 2026 年第 32 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最重要的動態是，生技公司輝瑞的藥物 Salanersen 獲得了 F D A 的突破性治療認定，這款藥物是用來治療脊髓性肌肉萎縮症的。這項認定能加速藥物的研發與審查進程。專家指出，脊髓性肌肉萎縮症的治療領域已經有許多成功藥物，Salanersen 的加入顯示藥廠持續努力改善病患的生活品質。獲得這項認定，意味著該藥物在初步臨床數據中展現了顯著的優勢。臨床醫師目前需要持續追蹤該藥物的試驗進展，並評估它未來是否能成為治療首選。  進入今天的第二個主題，同樣是醫學與藥學領域。我們看到卡里奧法姆公司的 Selinexor 在治療子宮內膜癌的第三期臨床試...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-08-03 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-08-03 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 03 Aug 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-03.mp3" length="1967904" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-03</guid>
