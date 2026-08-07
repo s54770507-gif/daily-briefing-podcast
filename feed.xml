@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 32 週・週五（2026-08-07）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十一周，周五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你帶來兩則關於腫瘤學的最新分析。第一則是關於胰臟癌的突破，美國 F D A 已經授予輝瑞旗下的研發藥物 Olomorasib 突破性療法資格，這項藥物主要是針對特定的 K R A S G 一二 C 突變晚期胰臟癌患者。雖然這類突變只佔整體患者的百分之二，但因為胰臟癌過往治療選擇非常少，這項認定將能加速臨床審查流程。醫師提醒，臨床上應該針對晚期患者進行基因檢測，確保不錯過標靶治療機會。第二則研究則是關於大腸直腸癌，一項涉及高劑量維生素 D 三的第三期臨床試驗結果顯示，這項補充療法並沒有顯著改善患者的存活期。專家指出，理論上的生物機制並不等同於臨床結果，...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十一周，周五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你帶來兩則關於腫瘤學的最新分析。第一則是關於胰臟癌的突破，美國 F D A 已經授予輝瑞旗下的研發藥物 Olomorasib 突破性療法資格，這項藥物主要是針對特定的 K R A S G 一二 C 突變晚期胰臟癌患者。雖然這類突變只佔整體患者的百分之二，但因為胰臟癌過往治療選擇非常少，這項認定將能加速臨床審查流程。醫師提醒，臨床上應該針對晚期患者進行基因檢測，確保不錯過標靶治療機會。第二則研究則是關於大腸直腸癌，一項涉及高劑量維生素 D 三的第三期臨床試驗結果顯示，這項補充療法並沒有顯著改善患者的存活期。專家指出，理論上的生物機制並不等同於臨床結果，...</itunes:summary>
+      <pubDate>Fri, 07 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-07.mp3" length="2180016" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-07</guid>
+      <itunes:duration>12:06</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 32 週・週三（2026-08-05）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 三十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們聚焦在癌症精準治療與基因治療的進展。首先，美國 F D A 授予了禮來開發的口服藥物 Olomorasib 突破性治療資格。這款藥物是用來治療特定的胰臟癌。胰臟癌一直被稱為癌中之王，因為腫瘤微環境太複雜，長期以來缺乏好的標靶藥物。Olomorasib 針對的是 K R A S G 一二 C 突變，這次獲得認證，代表它在早期試驗中表現亮眼。對臨床來說，這是胰臟癌走向個體化治療的一大步。另外，針對罕見疾病杜氏肌營養不良症，有一項三期臨床試驗有了重大發現。一種新的細胞療法被證實能有效減緩疾病惡化。這對藥學界是一個重要的轉折，因為這意味著我們從...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年 第 三十二 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們聚焦在癌症精準治療與基因治療的進展。首先，美國 F D A 授予了禮來開發的口服藥物 Olomorasib 突破性治療資格。這款藥物是用來治療特定的胰臟癌。胰臟癌一直被稱為癌中之王，因為腫瘤微環境太複雜，長期以來缺乏好的標靶藥物。Olomorasib 針對的是 K R A S G 一二 C 突變，這次獲得認證，代表它在早期試驗中表現亮眼。對臨床來說，這是胰臟癌走向個體化治療的一大步。另外，針對罕見疾病杜氏肌營養不良症，有一項三期臨床試驗有了重大發現。一種新的細胞療法被證實能有效減緩疾病惡化。這對藥學界是一個重要的轉折，因為這意味著我們從...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-08-05 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-08-05 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 05 Aug 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-05.mp3" length="2126736" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-05</guid>
