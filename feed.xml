@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 33 週・週五（2026-08-14）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第八月十四號，週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你梳理生醫臨床研究與法規進展。首先，美國 F D A 核准了針對復發或難治性多發性骨髓瘤的新型藥物治療方案，也就是 Iberdomide。這是一種新一代的 cereblon E3 連接酶調節劑，設計目的是為了克服傳統治療後的抗藥性問題。專家分析指出，這項獲批象徵著腫瘤免疫治療正從基礎調節，轉向更精準的蛋白質降解技術，這對於臨床醫師來說，必須更新第三線以上的治療清單，並密切關注患者是否對傳統免疫調節劑產生頑固性。另外，在肺癌治療方面，Zipalertinib 聯合化療在三期臨床試驗中，達到了無惡化存活期的主要終點，這為罕見的 E G F R 外顯子二...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第八月十四號，週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你梳理生醫臨床研究與法規進展。首先，美國 F D A 核准了針對復發或難治性多發性骨髓瘤的新型藥物治療方案，也就是 Iberdomide。這是一種新一代的 cereblon E3 連接酶調節劑，設計目的是為了克服傳統治療後的抗藥性問題。專家分析指出，這項獲批象徵著腫瘤免疫治療正從基礎調節，轉向更精準的蛋白質降解技術，這對於臨床醫師來說，必須更新第三線以上的治療清單，並密切關注患者是否對傳統免疫調節劑產生頑固性。另外，在肺癌治療方面，Zipalertinib 聯合化療在三期臨床試驗中，達到了無惡化存活期的主要終點，這為罕見的 E G F R 外顯子二...</itunes:summary>
+      <pubDate>Fri, 14 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-14.mp3" length="2053152" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-14</guid>
+      <itunes:duration>11:24</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 33 週・週三（2026-08-12）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十三週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為臨床醫師與藥物治療學專家，針對本週醫學領域的關鍵進展，我挑選了兩則具有高度臨床重要性的資訊進行分析，分別涉及精準腫瘤學與罕見疾病的治療突破，以及心臟衰竭藥物開發的挫敗。  首先，美國 F D A 給予禮來開發的 olomorasib 突破性治療資格，用於治療曾接受過治療的 K R A S G 一二 C 突變型晚期胰臟癌患者。這項認定加速了該藥物在胰臟癌此一高死亡率癌症領域的臨床研發進程。胰臟癌長期以來缺乏有效的標靶治療，K R A S 突變在該族群中極為普遍，但過去被視為不可成藥的目標。Olomorasib 獲得突破性認定，反映出針對特定基因突變進行...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十三週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。作為臨床醫師與藥物治療學專家，針對本週醫學領域的關鍵進展，我挑選了兩則具有高度臨床重要性的資訊進行分析，分別涉及精準腫瘤學與罕見疾病的治療突破，以及心臟衰竭藥物開發的挫敗。  首先，美國 F D A 給予禮來開發的 olomorasib 突破性治療資格，用於治療曾接受過治療的 K R A S G 一二 C 突變型晚期胰臟癌患者。這項認定加速了該藥物在胰臟癌此一高死亡率癌症領域的臨床研發進程。胰臟癌長期以來缺乏有效的標靶治療，K R A S 突變在該族群中極為普遍，但過去被視為不可成藥的目標。Olomorasib 獲得突破性認定，反映出針對特定基因突變進行...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-08-12 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-08-12 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 12 Aug 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-12.mp3" length="3004560" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-12</guid>
