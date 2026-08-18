@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 34 週・週三（2026-08-19）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十四週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。作為生技產業分析師，針對本週國際藥廠市場動態，我挑選了兩則最具策略影響力與市場討論熱度的指標性新聞進行深度剖析。  第一則新聞來自科技酷玩。中國生物製藥公司百利天恆開發的首款雙特異性抗體偶聯藥物，也就是 A D C，叫做 iza-bren。它在肺癌臨床試驗中達成主要目標，此次正向數據顯著提升了其合作夥伴百時美施貴寶在全球市場開發該藥物的信心。隨著 A D C 領域進入雙特異性競爭階段，iza-bren 的成功展示了該技術在難治性肺癌中的臨床轉化潛力。對百時美施貴寶而言，這是一項強化其腫瘤管線戰略的核心資產，足以填補其在 A D C 市場競爭力的...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十四週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入國際藥廠市場動態領域。作為生技產業分析師，針對本週國際藥廠市場動態，我挑選了兩則最具策略影響力與市場討論熱度的指標性新聞進行深度剖析。  第一則新聞來自科技酷玩。中國生物製藥公司百利天恆開發的首款雙特異性抗體偶聯藥物，也就是 A D C，叫做 iza-bren。它在肺癌臨床試驗中達成主要目標，此次正向數據顯著提升了其合作夥伴百時美施貴寶在全球市場開發該藥物的信心。隨著 A D C 領域進入雙特異性競爭階段，iza-bren 的成功展示了該技術在難治性肺癌中的臨床轉化潛力。對百時美施貴寶而言，這是一項強化其腫瘤管線戰略的核心資產，足以填補其在 A D C 市場競爭力的...</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-19.mp3" length="3819024" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-19</guid>
+      <itunes:duration>21:13</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 34 週・週一（2026-08-17）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十四 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。  做為臨床醫師與藥物治療學專家，針對本週最具臨床影響力與研發突破性的醫學資訊，我挑選了兩項關鍵進展進行深度分析。  首先是來自 新英格蘭醫學雜誌 相關的臨床試驗結果。美國 F D A 批准了百時美施貴寶的 C E L M o D 療法 Zenbexus，用於治療復發或難治性多發性骨髓瘤。此藥物與 daratumumab 及地塞米松聯合使用，適用於經歷過至少一線治療後復發的患者。專家分析指出，Iberdomide 做為新一代腦苷蛋白配體調節劑，展現了較傳統免疫調節劑更強的蛋白質降解活性，是骨髓瘤治療領域的重大技術升級。其獲准用於第一線復發的早期階...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十四 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。  做為臨床醫師與藥物治療學專家，針對本週最具臨床影響力與研發突破性的醫學資訊，我挑選了兩項關鍵進展進行深度分析。  首先是來自 新英格蘭醫學雜誌 相關的臨床試驗結果。美國 F D A 批准了百時美施貴寶的 C E L M o D 療法 Zenbexus，用於治療復發或難治性多發性骨髓瘤。此藥物與 daratumumab 及地塞米松聯合使用，適用於經歷過至少一線治療後復發的患者。專家分析指出，Iberdomide 做為新一代腦苷蛋白配體調節劑，展現了較傳統免疫調節劑更強的蛋白質降解活性，是骨髓瘤治療領域的重大技術升級。其獲准用於第一線復發的早期階...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-08-17 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-08-17 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 17 Aug 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-17.mp3" length="3531744" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-17</guid>
