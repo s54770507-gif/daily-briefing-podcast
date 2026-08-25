@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 35 週・週三（2026-08-26）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十五 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理醫療與藥物領域的最新熱點。禮來的藥物 Olomorasib 獲得了美國 F D A 授予的突破性治療資格，這項藥物是用來治療帶有 K R A S G 一二 C 突變的晚期胰臟癌患者。胰臟癌一直以來都很難處理，但這項資格認證，代表針對特定基因突變進行精準醫療的策略，已經獲得初步肯定。未來如果順利上市，將會改寫治療指引。此外，發表在新英格蘭醫學雜誌旗下的刺胳針腫瘤學刊的一項研究顯示，雙特異性抗體藥物 Ivonescimab 在治療非小細胞肺癌的第三期臨床試驗中，表現優異。這項藥物能同時標靶 P D - 一 與 V E G F，打破了過去單一路...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十五 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理醫療與藥物領域的最新熱點。禮來的藥物 Olomorasib 獲得了美國 F D A 授予的突破性治療資格，這項藥物是用來治療帶有 K R A S G 一二 C 突變的晚期胰臟癌患者。胰臟癌一直以來都很難處理，但這項資格認證，代表針對特定基因突變進行精準醫療的策略，已經獲得初步肯定。未來如果順利上市，將會改寫治療指引。此外，發表在新英格蘭醫學雜誌旗下的刺胳針腫瘤學刊的一項研究顯示，雙特異性抗體藥物 Ivonescimab 在治療非小細胞肺癌的第三期臨床試驗中，表現優異。這項藥物能同時標靶 P D - 一 與 V E G F，打破了過去單一路...</itunes:summary>
+      <pubDate>Wed, 26 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-26.mp3" length="1733616" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-26</guid>
+      <itunes:duration>09:37</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 35 週・週一（2026-08-24）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十五週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週醫藥領域有兩項突破性進展。首先是莫德納與輝瑞宣佈，他們開發的 M R N A 個性化癌症疫苗，聯合 Keytruda 在第三期臨床試驗中，顯著提升了晚期黑色素瘤患者的存活時間。這是全球首個成功跨過第三期臨床門檻的 M R N A 癌症疫苗，這不僅代表免疫檢查點抑制劑有了強力的輔助工具，更宣告了癌症疫苗化時代的正式啟動。醫師們未來需要更關注這些療法的長期副作用，以及製劑的冷鏈物流管理。  另外，禮來藥廠針對 KRAS G12C 突變晚期胰臟癌的抑制劑 Olomorasib，獲得了 F D A 的突破性治療認定。這項進展讓以往被視為不可成藥的目標有了新希...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十五週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週醫藥領域有兩項突破性進展。首先是莫德納與輝瑞宣佈，他們開發的 M R N A 個性化癌症疫苗，聯合 Keytruda 在第三期臨床試驗中，顯著提升了晚期黑色素瘤患者的存活時間。這是全球首個成功跨過第三期臨床門檻的 M R N A 癌症疫苗，這不僅代表免疫檢查點抑制劑有了強力的輔助工具，更宣告了癌症疫苗化時代的正式啟動。醫師們未來需要更關注這些療法的長期副作用，以及製劑的冷鏈物流管理。  另外，禮來藥廠針對 KRAS G12C 突變晚期胰臟癌的抑制劑 Olomorasib，獲得了 F D A 的突破性治療認定。這項進展讓以往被視為不可成藥的目標有了新希...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-08-24 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-08-24 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 24 Aug 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-24.mp3" length="1721808" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-24</guid>
