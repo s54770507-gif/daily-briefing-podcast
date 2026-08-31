@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 36 週・週一（2026-08-31）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第八月三十一日，九月的第一週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最具臨床影響力的重大進展有兩項，首先是美國 F D A 正式核准首款針對 K R A S G 一二 C 突變的胰臟癌標靶藥物，這標誌著胰臟癌正式進入精準醫療時代。胰臟癌的 K R A S 突變率極高，過去針對這個位點的抑制劑多集中在肺癌，這次在胰臟癌獲得核准具有指標性意義。專家建議，臨床醫師應及早為晚期胰臟癌患者進行次世代基因定序檢測，篩選出適合使用這款藥物的對象，同時也要注意它可能帶來的特殊毒性。  接著是心肌抑制劑在肥厚型心肌病變的表現，這項研究同步發表在《新英格蘭醫學雜誌》。臨床試驗證實，這類藥物能顯著改善患者的運動耐受力，解...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第八月三十一日，九月的第一週週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最具臨床影響力的重大進展有兩項，首先是美國 F D A 正式核准首款針對 K R A S G 一二 C 突變的胰臟癌標靶藥物，這標誌著胰臟癌正式進入精準醫療時代。胰臟癌的 K R A S 突變率極高，過去針對這個位點的抑制劑多集中在肺癌，這次在胰臟癌獲得核准具有指標性意義。專家建議，臨床醫師應及早為晚期胰臟癌患者進行次世代基因定序檢測，篩選出適合使用這款藥物的對象，同時也要注意它可能帶來的特殊毒性。  接著是心肌抑制劑在肥厚型心肌病變的表現，這項研究同步發表在《新英格蘭醫學雜誌》。臨床試驗證實，這類藥物能顯著改善患者的運動耐受力，解...</itunes:summary>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-31.mp3" length="2029680" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-08-31</guid>
+      <itunes:duration>11:16</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 35 週・週五（2026-08-28）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十五週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理臨床與藥學的關鍵進展。身為臨床醫師與藥物治療學專家，針對本週最具影響力的資訊，我挑選了兩則重點。首先，美國 F D A 核准了 Daraxonrasib 用於治療特定晚期胰臟癌。這款藥物針對 K R A S G 一 二 C 突變，展現了突破性的治療潛力。長期以來，胰臟癌被認為是難以藥物治療的目標，這次的核准標誌著針對癌中之王的精準醫療邁向重要里程碑。臨床醫師現在需要更加重視基因定序，以便第一時間篩選出適合此藥的患者。另外，關於小細胞肺癌藥物 Lurbinectedin，因為後續臨床數據未達標，二線治療適應症遭到撤回。這事件提醒我們，運用尚未完成完...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十五週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理臨床與藥學的關鍵進展。身為臨床醫師與藥物治療學專家，針對本週最具影響力的資訊，我挑選了兩則重點。首先，美國 F D A 核准了 Daraxonrasib 用於治療特定晚期胰臟癌。這款藥物針對 K R A S G 一 二 C 突變，展現了突破性的治療潛力。長期以來，胰臟癌被認為是難以藥物治療的目標，這次的核准標誌著針對癌中之王的精準醫療邁向重要里程碑。臨床醫師現在需要更加重視基因定序，以便第一時間篩選出適合此藥的患者。另外，關於小細胞肺癌藥物 Lurbinectedin，因為後續臨床數據未達標，二線治療適應症遭到撤回。這事件提醒我們，運用尚未完成完...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-08-28 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-08-28 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 28 Aug 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-08-28.mp3" length="2220192" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-28</guid>
