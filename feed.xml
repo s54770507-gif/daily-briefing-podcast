@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 37 週・週五（2026-09-11）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十七週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最具指標性的議題，在於黑色素瘤治療的重大突破。根據最新的臨床實驗結果，利用 M R N A 癌症疫苗結合免疫抑制劑，能顯著提升黑色素瘤患者的存活率。專家分析認為，這代表個人化癌症疫苗正式跨入臨床實務。與傳統化療不同，這項技術能針對患者獨特的突變序列，引發精準的 T 細胞反應。這對於未來高風險患者的治療策略，提供了全新的路徑。另外，藥廠 U C B 研發的藥物，也獲得了 F D A 的突破性療法認定，專門用於治療懷孕期間的抗磷脂質症候群。這項進展不僅是藥物結構的改進，也為臨床藥理學中，孕婦用藥安全性這項禁忌領域，帶來了新的希望。以上是本週醫學領域的重點...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十七週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最具指標性的議題，在於黑色素瘤治療的重大突破。根據最新的臨床實驗結果，利用 M R N A 癌症疫苗結合免疫抑制劑，能顯著提升黑色素瘤患者的存活率。專家分析認為，這代表個人化癌症疫苗正式跨入臨床實務。與傳統化療不同，這項技術能針對患者獨特的突變序列，引發精準的 T 細胞反應。這對於未來高風險患者的治療策略，提供了全新的路徑。另外，藥廠 U C B 研發的藥物，也獲得了 F D A 的突破性療法認定，專門用於治療懷孕期間的抗磷脂質症候群。這項進展不僅是藥物結構的改進，也為臨床藥理學中，孕婦用藥安全性這項禁忌領域，帶來了新的希望。以上是本週醫學領域的重點...</itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-11.mp3" length="1861632" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-11</guid>
+      <itunes:duration>10:20</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 37 週・週三（2026-09-09）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是 2026 年第 37 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最具影響力的兩則新聞，來自新英格蘭醫學雜誌以及其他重點期刊的臨床數據報告。第一則，禮來藥廠開發的抑制劑 O l o m o r a s i b，獲得了 F D A 突破性治療認定。這款藥物是用來治療先前已經接受過治療的 K R A S G 1 2 C 突變晚期胰臟癌。專家指出，胰臟癌長期被稱為癌中之王，傳統化療效果很有限，這次的新進展，代表藥物開發策略正向更廣泛的固體腫瘤邁進。第二則，阿斯特捷利康公布了新藥 T o z o r a k i m a b 的第三期臨床數據，能顯著降低慢性阻塞性肺病的急性惡化頻率。這象徵著呼吸道疾病的治療，正從單純...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是 2026 年第 37 週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週最具影響力的兩則新聞，來自新英格蘭醫學雜誌以及其他重點期刊的臨床數據報告。第一則，禮來藥廠開發的抑制劑 O l o m o r a s i b，獲得了 F D A 突破性治療認定。這款藥物是用來治療先前已經接受過治療的 K R A S G 1 2 C 突變晚期胰臟癌。專家指出，胰臟癌長期被稱為癌中之王，傳統化療效果很有限，這次的新進展，代表藥物開發策略正向更廣泛的固體腫瘤邁進。第二則，阿斯特捷利康公布了新藥 T o z o r a k i m a b 的第三期臨床數據，能顯著降低慢性阻塞性肺病的急性惡化頻率。這象徵著呼吸道疾病的治療，正從單純...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-09-09 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-09-09 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 09 Sep 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-09.mp3" length="1743696" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-09</guid>
