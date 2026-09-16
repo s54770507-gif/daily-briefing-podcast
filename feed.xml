@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 38 週・週三（2026-09-16）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第九月十六日，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊與藥學指引領域。首先關注的是胰腺癌的治療進展，美國的 F D A 已經授予達拉松拉西布，也就是 D a r a x o n r a s i b，與化療合併療法作為轉移性胰腺癌一線治療的突破性治療資格。胰腺癌長期被稱為癌王，因為臨床選擇極少且預後不佳，這次獲獎代表 F D A 對其初步療效的肯定，研發與審核流程將會加速。對臨床醫師來說，未來需要持續關注相關臨床試驗，為特定基因表現的胰腺癌患者提供更多選擇。第二則關於腎臟病，維拉治療公司，也就是 V e r a T h e r a p e u t i c s，宣布治療 I g A 腎病變的候選藥物 T r u ...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第九月十六日，週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊與藥學指引領域。首先關注的是胰腺癌的治療進展，美國的 F D A 已經授予達拉松拉西布，也就是 D a r a x o n r a s i b，與化療合併療法作為轉移性胰腺癌一線治療的突破性治療資格。胰腺癌長期被稱為癌王，因為臨床選擇極少且預後不佳，這次獲獎代表 F D A 對其初步療效的肯定，研發與審核流程將會加速。對臨床醫師來說，未來需要持續關注相關臨床試驗，為特定基因表現的胰腺癌患者提供更多選擇。第二則關於腎臟病，維拉治療公司，也就是 V e r a T h e r a p e u t i c s，宣布治療 I g A 腎病變的候選藥物 T r u ...</itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-16.mp3" length="2322432" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-16</guid>
+      <itunes:duration>12:54</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 38 週・週一（2026-09-14）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十八週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重點發現。第一，研究指出賽洛西賓在預防化療引起的神經疼痛方面展現潛力，同時 Definium 公司獲得了其第二次 F D A 突破性療法認定。這代表迷幻藥物已經從精神醫學，跨足到了癌症輔助照護的治療邊界。專家認為，迷幻藥治療疼痛的機制，可能與調節中樞神經系統的發炎反應及神經可塑性有關，這為化療引起的周邊神經病變提供了新視角。臨床醫師仍須關注其在癌症患者族群中的安全性，特別是與其他藥物的交互作用風險。未來，醫療團隊需要關注賽洛西賓在姑息治療中的早期數據，臨床藥師與腫瘤科醫師也應該共同檢視其代謝特性。第二，全球首款由生成式 A I 設計的創新藥物...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第三十八週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項重點發現。第一，研究指出賽洛西賓在預防化療引起的神經疼痛方面展現潛力，同時 Definium 公司獲得了其第二次 F D A 突破性療法認定。這代表迷幻藥物已經從精神醫學，跨足到了癌症輔助照護的治療邊界。專家認為，迷幻藥治療疼痛的機制，可能與調節中樞神經系統的發炎反應及神經可塑性有關，這為化療引起的周邊神經病變提供了新視角。臨床醫師仍須關注其在癌症患者族群中的安全性，特別是與其他藥物的交互作用風險。未來，醫療團隊需要關注賽洛西賓在姑息治療中的早期數據，臨床藥師與腫瘤科醫師也應該共同檢視其代謝特性。第二，全球首款由生成式 A I 設計的創新藥物...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-09-14 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-09-14 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Mon, 14 Sep 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-14.mp3" length="2208240" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-14</guid>
