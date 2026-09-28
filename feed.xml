@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 40 週・週一（2026-09-28）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是 2026 年第 40 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項關鍵進展。首先，美國食品藥物管理局 F D A 已經授予藥物 D a r a x o n r a s i b 突破性治療藥物資格，將用於治療轉移性胰腺癌。胰腺癌一直被稱為癌中之王，治療難度極高，這次資格認定代表我們在針對 K R A S 等難治型突變的精準醫療上，又往前邁進了一步。腫瘤科醫師未來需要更重視基因檢測，以利提早篩選病患。  第二項進展，則是安進公司在全身性乾燥症的藥物臨床試驗上，傳出正面結果。乾燥症患者過去只能緩解症狀，現在透過新型免疫調節機制的生物製劑，未來將有機會能控制病情。這代表風濕免疫科的治療工具箱，將會迎來一次重要...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是 2026 年第 40 週 週一，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項關鍵進展。首先，美國食品藥物管理局 F D A 已經授予藥物 D a r a x o n r a s i b 突破性治療藥物資格，將用於治療轉移性胰腺癌。胰腺癌一直被稱為癌中之王，治療難度極高，這次資格認定代表我們在針對 K R A S 等難治型突變的精準醫療上，又往前邁進了一步。腫瘤科醫師未來需要更重視基因檢測，以利提早篩選病患。  第二項進展，則是安進公司在全身性乾燥症的藥物臨床試驗上，傳出正面結果。乾燥症患者過去只能緩解症狀，現在透過新型免疫調節機制的生物製劑，未來將有機會能控制病情。這代表風濕免疫科的治療工具箱，將會迎來一次重要...</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-28.mp3" length="2083680" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-28</guid>
+      <itunes:duration>11:34</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 39 週・週五（2026-09-25）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十九 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週的研究核心在於自身免疫與難治型癌症的關鍵突破。首先是 輝瑞 旗下的藥廠 A m g e n，他們宣布治療系統性修格蘭氏症的新藥 D a z o d a l i b e p，在 第三期臨床試驗中達到主要目標。這個藥物能精準阻斷免疫細胞的交互作用，為長期缺乏標靶藥物的患者帶來曙光。這代表醫學界正從過去的免疫抑制，轉向更精細的免疫調節治療。  第二個重點則是 胰臟癌的突破。美國 F D A 授予 D a r a x o n r a s i b 這款藥物突破性治療認定，用來治療轉移性胰臟腺癌。胰臟癌向來很難對付，這次針對特定基因突變的精準介入，標誌著...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 三十九 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週的研究核心在於自身免疫與難治型癌症的關鍵突破。首先是 輝瑞 旗下的藥廠 A m g e n，他們宣布治療系統性修格蘭氏症的新藥 D a z o d a l i b e p，在 第三期臨床試驗中達到主要目標。這個藥物能精準阻斷免疫細胞的交互作用，為長期缺乏標靶藥物的患者帶來曙光。這代表醫學界正從過去的免疫抑制，轉向更精細的免疫調節治療。  第二個重點則是 胰臟癌的突破。美國 F D A 授予 D a r a x o n r a s i b 這款藥物突破性治療認定，用來治療轉移性胰臟腺癌。胰臟癌向來很難對付，這次針對特定基因突變的精準介入，標誌著...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-09-25 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-09-25 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Fri, 25 Sep 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-25.mp3" length="1886256" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-25</guid>
