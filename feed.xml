@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 40 週・週五（2026-10-02）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第四十週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床變革意義的進展，我挑選了兩項重大突破。首先，聯邦食品藥物管理局 F D A，已經授予治療轉移性胰腺導管腺癌的藥物 Daraxonrasib 一項突破性療法認定。胰臟癌長期被視為癌王，現行治療效果非常有限，這項藥物在早期試驗中展現了改變治療標準的潛力，這也反映了腫瘤學正從傳統化療，轉向標靶與免疫聯合療法的大趨勢。接下來第二項，是關於禮來藥廠發布的下一代減重藥物數據。這項名為 retatrutide 的藥物，透過三重受體機制，展現出比現行 GLP-1 藥物更強的減重效果。醫師在未來臨床決策上，將面臨更複雜的選擇，必...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第四十週週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。身為臨床醫師與藥物治療學專家，針對本週最具臨床變革意義的進展，我挑選了兩項重大突破。首先，聯邦食品藥物管理局 F D A，已經授予治療轉移性胰腺導管腺癌的藥物 Daraxonrasib 一項突破性療法認定。胰臟癌長期被視為癌王，現行治療效果非常有限，這項藥物在早期試驗中展現了改變治療標準的潛力，這也反映了腫瘤學正從傳統化療，轉向標靶與免疫聯合療法的大趨勢。接下來第二項，是關於禮來藥廠發布的下一代減重藥物數據。這項名為 retatrutide 的藥物，透過三重受體機制，展現出比現行 GLP-1 藥物更強的減重效果。醫師在未來臨床決策上，將面臨更複雜的選擇，必...</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-10-02.mp3" length="2308752" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-02</guid>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 40 週・週三（2026-09-30）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第四十週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項指標性的突破。首先是關於頭頸部手術的創新，美國 F D A 授予了一款名為 Bevonescein 的藥物突破性治療資格。這是一種術中輔助劑，簡單來說，它能讓神經在手術中即時顯影。對外科醫師來說，這意味著在進行複雜手術時，能更精確地避開神經，大幅降低受傷風險。這標誌著精密外科與分子影像學的結合，未來手術可能不再只靠醫師經驗，而是透過藥物賦能，定義精準醫療的新標準。  另外，針對腦轉移瘤的治療也有重要進展。新英格蘭醫學雜誌刊登了一份第三期臨床試驗報告，證實了一種植入式的放射性基質 GammaTile，能作為標準治療的新選項。過去患者手術切除腫瘤後，...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第四十週週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週有兩項指標性的突破。首先是關於頭頸部手術的創新，美國 F D A 授予了一款名為 Bevonescein 的藥物突破性治療資格。這是一種術中輔助劑，簡單來說，它能讓神經在手術中即時顯影。對外科醫師來說，這意味著在進行複雜手術時，能更精確地避開神經，大幅降低受傷風險。這標誌著精密外科與分子影像學的結合，未來手術可能不再只靠醫師經驗，而是透過藥物賦能，定義精準醫療的新標準。  另外，針對腦轉移瘤的治療也有重要進展。新英格蘭醫學雜誌刊登了一份第三期臨床試驗報告，證實了一種植入式的放射性基質 GammaTile，能作為標準治療的新選項。過去患者手術切除腫瘤後，...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-09-30 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-09-30 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 30 Sep 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-09-30.mp3" length="2220480" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-30</guid>
