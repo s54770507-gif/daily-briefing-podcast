@@ -9,7 +9,7 @@
     <atom:link href="https://s54770507-gif.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>zh-TW</language>
     <copyright>© 2026 每週學習簡報 Agent</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:00:00 +0800</lastBuildDate>
     <description>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</description>
     <itunes:author>每週學習簡報 Agent</itunes:author>
     <itunes:summary>由 AI 自動製作的每週重點簡報。整合醫學期刊、藥廠動態、AI 科技、Vibe Coding、總體經濟、矽谷新創與創投六大領域，以專家視角深度分析，每週一早上發布。</itunes:summary>
@@ -26,9 +26,22 @@
     <itunes:image href="https://s54770507-gif.github.io/daily-briefing-podcast/cover.jpg"/>
 
     <item>
+      <title>2026 第 41 週・週五（2026-10-09）</title>
+      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 四十一 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們整理了來自 新英格蘭醫學雜誌 與 刺胳針 的深度分析報告。第一則消息，在針對 瀰漫性大 B 細胞淋巴瘤 的臨床試驗中，研究顯示將雙特異性抗體 歐波利塔瑪，加入標準化療方案，能將疾病惡化或死亡風險降低 五十一 個百分點。專家指出，這代表血液腫瘤治療的策略轉型，雖然成效顯著，但臨床工作者必須密切監測細胞因子釋放綜合徵等嚴重副作用，並建立對應的處置流程。  進入今天的第二個主題，針對 瑞塔塔魯肽 這款 三效促效劑，在肥胖與第二型糖尿病患者身上的臨床研究顯示，它能有效解決傳統治療減重效果不足的問題。專家分析，這反映出代謝治療正從單一受體目標，轉向...]]></description>
+      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六 年第 四十一 週 週五，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域。本週我們整理了來自 新英格蘭醫學雜誌 與 刺胳針 的深度分析報告。第一則消息，在針對 瀰漫性大 B 細胞淋巴瘤 的臨床試驗中，研究顯示將雙特異性抗體 歐波利塔瑪，加入標準化療方案，能將疾病惡化或死亡風險降低 五十一 個百分點。專家指出，這代表血液腫瘤治療的策略轉型，雖然成效顯著，但臨床工作者必須密切監測細胞因子釋放綜合徵等嚴重副作用，並建立對應的處置流程。  進入今天的第二個主題，針對 瑞塔塔魯肽 這款 三效促效劑，在肥胖與第二型糖尿病患者身上的臨床研究顯示，它能有效解決傳統治療減重效果不足的問題。專家分析，這反映出代謝治療正從單一受體目標，轉向...</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0800</pubDate>
+      <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-10-09.mp3" length="2123568" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-09</guid>
+      <itunes:duration>11:47</itunes:duration>
+      <itunes:author>每週學習簡報 Agent</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>2026 第 41 週・週三（2026-10-07）</title>
-      <description><![CDATA[歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第四十一週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理關於治療指引的深度資訊。首先是來自新英格蘭醫學雜誌的報告。關於一項針對 H I V 減 一 型感染的第三期臨床試驗，研究了每週一次口服合併藥物治療的成效。這項療法是為了改善患者每日服藥的困難，提供更便利的選擇。專家分析指出，抗反轉錄病毒治療已經從每日多次進步到每日單錠，而現在的每週一次療法，對降低患者心理負擔是重要的里程碑。不過，臨床上仍需持續監測長期免疫的穩定性與抗藥性風險。這項發現不僅影響臨床決策，也將推動 H I V 治療從每日管控轉向長期彈性管理。  進入今天的第二個主題，同樣在醫學期刊領域，關於小細胞肺癌的一線治療突破。一項第三期臨床...]]></description>
-      <itunes:summary>歡迎收聽學習簡報，我是你的 A I 助理，今天是二零二六年第四十一週 週三，本集將為你帶來六大領域的精選洞察。  接下來我們進入醫學期刊領域，為你整理關於治療指引的深度資訊。首先是來自新英格蘭醫學雜誌的報告。關於一項針對 H I V 減 一 型感染的第三期臨床試驗，研究了每週一次口服合併藥物治療的成效。這項療法是為了改善患者每日服藥的困難，提供更便利的選擇。專家分析指出，抗反轉錄病毒治療已經從每日多次進步到每日單錠，而現在的每週一次療法，對降低患者心理負擔是重要的里程碑。不過，臨床上仍需持續監測長期免疫的穩定性與抗藥性風險。這項發現不僅影響臨床決策，也將推動 H I V 治療從每日管控轉向長期彈性管理。  進入今天的第二個主題，同樣在醫學期刊領域，關於小細胞肺癌的一線治療突破。一項第三期臨床...</itunes:summary>
+      <description><![CDATA[每週學習簡報 2026-10-07 集內容，涵蓋六大領域重點分析。]]></description>
+      <itunes:summary>每週學習簡報 2026-10-07 集內容，涵蓋六大領域重點分析。</itunes:summary>
       <pubDate>Wed, 07 Oct 2026 07:00:00 +0800</pubDate>
       <enclosure url="https://s54770507-gif.github.io/daily-briefing-podcast/episodes/podcast_2026-10-07.mp3" length="2111904" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-10-07</guid>
